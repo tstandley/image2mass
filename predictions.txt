@@ -1,845 +1,845 @@
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/red_lego_brick_4.jpg 2.5001 1.25 0.9 2>/dev/null                                                              
+python3 predict_mass.py test_set_images/red_lego_brick_4.jpg 2.5001 1.25 0.9 2>/dev/null                                                              
 test_set_images/red_lego_brick_4.jpg probably weighs about 0.0943937 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/red_lego_brick_3.jpg 2.5001 1.25 0.9 2>/dev/null
+python3 predict_mass.py test_set_images/red_lego_brick_3.jpg 2.5001 1.25 0.9 2>/dev/null
 test_set_images/red_lego_brick_3.jpg probably weighs about 0.0834257 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/red_lego_brick_2.jpg 2.5001 1.25 0.9 2>/dev/null
+python3 predict_mass.py test_set_images/red_lego_brick_2.jpg 2.5001 1.25 0.9 2>/dev/null
 test_set_images/red_lego_brick_2.jpg probably weighs about 0.0840758 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/red_lego_brick_6.jpg 2.5001 1.25 0.9 2>/dev/null
+python3 predict_mass.py test_set_images/red_lego_brick_6.jpg 2.5001 1.25 0.9 2>/dev/null
 test_set_images/red_lego_brick_6.jpg probably weighs about 0.102493 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/red_lego_brick_7.jpg 2.5001 1.25 0.9 2>/dev/null
+python3 predict_mass.py test_set_images/red_lego_brick_7.jpg 2.5001 1.25 0.9 2>/dev/null
 test_set_images/red_lego_brick_7.jpg probably weighs about 0.0823939 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/red_lego_brick_8.jpg 2.5001 1.25 0.9 2>/dev/null
+python3 predict_mass.py test_set_images/red_lego_brick_8.jpg 2.5001 1.25 0.9 2>/dev/null
 test_set_images/red_lego_brick_8.jpg probably weighs about 0.0944689 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/red_lego_brick_1.jpg 2.5001 1.25 0.9 2>/dev/null
+python3 predict_mass.py test_set_images/red_lego_brick_1.jpg 2.5001 1.25 0.9 2>/dev/null
 test_set_images/red_lego_brick_1.jpg probably weighs about 0.0922773 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/red_lego_brick_5.jpg 2.5001 1.25 0.9 2>/dev/null
+python3 predict_mass.py test_set_images/red_lego_brick_5.jpg 2.5001 1.25 0.9 2>/dev/null
 test_set_images/red_lego_brick_5.jpg probably weighs about 0.106925 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/green_lego_brick_4.jpg 2.5 1.25 0.9 2>/dev/null                                                               
+python3 predict_mass.py test_set_images/green_lego_brick_4.jpg 2.5 1.25 0.9 2>/dev/null                                                               
 test_set_images/green_lego_brick_4.jpg probably weighs about 0.116562 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/green_lego_brick_5.jpg 2.5 1.25 0.9 2>/dev/null
+python3 predict_mass.py test_set_images/green_lego_brick_5.jpg 2.5 1.25 0.9 2>/dev/null
 test_set_images/green_lego_brick_5.jpg probably weighs about 0.0962174 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/green_lego_brick_1.jpg 2.5 1.25 0.9 2>/dev/null
+python3 predict_mass.py test_set_images/green_lego_brick_1.jpg 2.5 1.25 0.9 2>/dev/null
 test_set_images/green_lego_brick_1.jpg probably weighs about 0.107794 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/green_lego_brick_3.jpg 2.5 1.25 0.9 2>/dev/null
+python3 predict_mass.py test_set_images/green_lego_brick_3.jpg 2.5 1.25 0.9 2>/dev/null
 test_set_images/green_lego_brick_3.jpg probably weighs about 0.0943058 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/green_lego_brick_2.jpg 2.5 1.25 0.9 2>/dev/null
+python3 predict_mass.py test_set_images/green_lego_brick_2.jpg 2.5 1.25 0.9 2>/dev/null
 test_set_images/green_lego_brick_2.jpg probably weighs about 0.0899432 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/wooden_train_track_4.jpg 8.75 1.625 0.5 2>/dev/null                                                           
+python3 predict_mass.py test_set_images/wooden_train_track_4.jpg 8.75 1.625 0.5 2>/dev/null                                                           
 test_set_images/wooden_train_track_4.jpg probably weighs about 0.300948 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/wooden_train_track_3.jpg 8.75 1.625 0.5 2>/dev/null
+python3 predict_mass.py test_set_images/wooden_train_track_3.jpg 8.75 1.625 0.5 2>/dev/null
 test_set_images/wooden_train_track_3.jpg probably weighs about 0.277299 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/wooden_train_track_7.jpg 8.75 1.625 0.5 2>/dev/null
+python3 predict_mass.py test_set_images/wooden_train_track_7.jpg 8.75 1.625 0.5 2>/dev/null
 test_set_images/wooden_train_track_7.jpg probably weighs about 0.32756 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/wooden_train_track_2.jpg 8.75 1.625 0.5 2>/dev/null
+python3 predict_mass.py test_set_images/wooden_train_track_2.jpg 8.75 1.625 0.5 2>/dev/null
 test_set_images/wooden_train_track_2.jpg probably weighs about 0.27619 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/wooden_train_track_5.jpg 8.75 1.625 0.5 2>/dev/null
+python3 predict_mass.py test_set_images/wooden_train_track_5.jpg 8.75 1.625 0.5 2>/dev/null
 test_set_images/wooden_train_track_5.jpg probably weighs about 0.274869 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/wooden_train_track_6.jpg 8.75 1.625 0.5 2>/dev/null
+python3 predict_mass.py test_set_images/wooden_train_track_6.jpg 8.75 1.625 0.5 2>/dev/null
 test_set_images/wooden_train_track_6.jpg probably weighs about 0.292087 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/wooden_train_track_1.jpg 8.75 1.625 0.5 2>/dev/null
+python3 predict_mass.py test_set_images/wooden_train_track_1.jpg 8.75 1.625 0.5 2>/dev/null
 test_set_images/wooden_train_track_1.jpg probably weighs about 0.307556 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/wooden_train_track_9.jpg 8.75 1.625 0.5 2>/dev/null
+python3 predict_mass.py test_set_images/wooden_train_track_9.jpg 8.75 1.625 0.5 2>/dev/null
 test_set_images/wooden_train_track_9.jpg probably weighs about 0.311732 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/wooden_train_track_8.jpg 8.75 1.625 0.5 2>/dev/null
+python3 predict_mass.py test_set_images/wooden_train_track_8.jpg 8.75 1.625 0.5 2>/dev/null
 test_set_images/wooden_train_track_8.jpg probably weighs about 0.279942 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/boy_doll_1.jpg 14.5 10.25 3.0 2>/dev/null                                                                     
+python3 predict_mass.py test_set_images/boy_doll_1.jpg 14.5 10.25 3.0 2>/dev/null                                                                     
 test_set_images/boy_doll_1.jpg probably weighs about 0.900742 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/boy_doll_3.jpg 14.5 10.25 3.0 2>/dev/null
+python3 predict_mass.py test_set_images/boy_doll_3.jpg 14.5 10.25 3.0 2>/dev/null
 test_set_images/boy_doll_3.jpg probably weighs about 0.561089 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/boy_doll_5.jpg 14.5 10.25 3.0 2>/dev/null
+python3 predict_mass.py test_set_images/boy_doll_5.jpg 14.5 10.25 3.0 2>/dev/null
 test_set_images/boy_doll_5.jpg probably weighs about 0.559813 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/boy_doll_2.jpg 14.5 10.25 3.0 2>/dev/null
+python3 predict_mass.py test_set_images/boy_doll_2.jpg 14.5 10.25 3.0 2>/dev/null
 test_set_images/boy_doll_2.jpg probably weighs about 0.930895 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/boy_doll_4.jpg 14.5 10.25 3.0 2>/dev/null
+python3 predict_mass.py test_set_images/boy_doll_4.jpg 14.5 10.25 3.0 2>/dev/null
 test_set_images/boy_doll_4.jpg probably weighs about 0.632729 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/twine_6.jpg 2.9 2.9 2.3 2>/dev/null                                                                           
+python3 predict_mass.py test_set_images/twine_6.jpg 2.9 2.9 2.3 2>/dev/null                                                                           
 test_set_images/twine_6.jpg probably weighs about 0.34776 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/twine_9.jpg 2.9 2.9 2.3 2>/dev/null
+python3 predict_mass.py test_set_images/twine_9.jpg 2.9 2.9 2.3 2>/dev/null
 test_set_images/twine_9.jpg probably weighs about 0.333015 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/twine_7.jpg 2.9 2.9 2.3 2>/dev/null
+python3 predict_mass.py test_set_images/twine_7.jpg 2.9 2.9 2.3 2>/dev/null
 test_set_images/twine_7.jpg probably weighs about 0.30173 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/twine_8.jpg 2.9 2.9 2.3 2>/dev/null
+python3 predict_mass.py test_set_images/twine_8.jpg 2.9 2.9 2.3 2>/dev/null
 test_set_images/twine_8.jpg probably weighs about 0.313815 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/twine_4.jpg 2.9 2.9 2.3 2>/dev/null
+python3 predict_mass.py test_set_images/twine_4.jpg 2.9 2.9 2.3 2>/dev/null
 test_set_images/twine_4.jpg probably weighs about 0.355582 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/twine_1.jpg 2.9 2.9 2.3 2>/dev/null
+python3 predict_mass.py test_set_images/twine_1.jpg 2.9 2.9 2.3 2>/dev/null
 test_set_images/twine_1.jpg probably weighs about 0.301426 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/twine_3.jpg 2.9 2.9 2.3 2>/dev/null
+python3 predict_mass.py test_set_images/twine_3.jpg 2.9 2.9 2.3 2>/dev/null
 test_set_images/twine_3.jpg probably weighs about 0.308326 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/twine_2.jpg 2.9 2.9 2.3 2>/dev/null
+python3 predict_mass.py test_set_images/twine_2.jpg 2.9 2.9 2.3 2>/dev/null
 test_set_images/twine_2.jpg probably weighs about 0.313078 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/twine_5.jpg 2.9 2.9 2.3 2>/dev/null
+python3 predict_mass.py test_set_images/twine_5.jpg 2.9 2.9 2.3 2>/dev/null
 test_set_images/twine_5.jpg probably weighs about 0.342324 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/toaster_1.jpg 10.75 4.5 6.7 2>/dev/null                                                                       
+python3 predict_mass.py test_set_images/toaster_1.jpg 10.75 4.5 6.7 2>/dev/null                                                                       
 test_set_images/toaster_1.jpg probably weighs about 2.552 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/toaster_3.jpg 10.75 4.5 6.7 2>/dev/null
+python3 predict_mass.py test_set_images/toaster_3.jpg 10.75 4.5 6.7 2>/dev/null
 test_set_images/toaster_3.jpg probably weighs about 2.42538 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/toaster_2.jpg 10.75 4.5 6.7 2>/dev/null
+python3 predict_mass.py test_set_images/toaster_2.jpg 10.75 4.5 6.7 2>/dev/null
 test_set_images/toaster_2.jpg probably weighs about 2.39505 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/toaster_5.jpg 10.75 4.5 6.7 2>/dev/null
+python3 predict_mass.py test_set_images/toaster_5.jpg 10.75 4.5 6.7 2>/dev/null
 test_set_images/toaster_5.jpg probably weighs about 2.57721 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/toaster_4.jpg 10.75 4.5 6.7 2>/dev/null
+python3 predict_mass.py test_set_images/toaster_4.jpg 10.75 4.5 6.7 2>/dev/null
 test_set_images/toaster_4.jpg probably weighs about 1.79651 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/toaster_6.jpg 10.75 4.5 6.7 2>/dev/null
+python3 predict_mass.py test_set_images/toaster_6.jpg 10.75 4.5 6.7 2>/dev/null
 test_set_images/toaster_6.jpg probably weighs about 1.82433 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/hose_splitter_1.jpg 2.5 3.0 1.75 2>/dev/null                                                                  
+python3 predict_mass.py test_set_images/hose_splitter_1.jpg 2.5 3.0 1.75 2>/dev/null                                                                  
 test_set_images/hose_splitter_1.jpg probably weighs about 0.302639 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/hose_splitter_2.jpg 2.5 3.0 1.75 2>/dev/null
+python3 predict_mass.py test_set_images/hose_splitter_2.jpg 2.5 3.0 1.75 2>/dev/null
 test_set_images/hose_splitter_2.jpg probably weighs about 0.400482 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/hose_splitter_4.jpg 2.5 3.0 1.75 2>/dev/null
+python3 predict_mass.py test_set_images/hose_splitter_4.jpg 2.5 3.0 1.75 2>/dev/null
 test_set_images/hose_splitter_4.jpg probably weighs about 0.253334 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/hose_splitter_3.jpg 2.5 3.0 1.75 2>/dev/null
+python3 predict_mass.py test_set_images/hose_splitter_3.jpg 2.5 3.0 1.75 2>/dev/null
 test_set_images/hose_splitter_3.jpg probably weighs about 0.344217 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/bar_of_soap_1.jpg 3.25 2.375 1.2 2>/dev/null                                                                  
+python3 predict_mass.py test_set_images/bar_of_soap_1.jpg 3.25 2.375 1.2 2>/dev/null                                                                  
 test_set_images/bar_of_soap_1.jpg probably weighs about 0.182105 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/bar_of_soap_7.jpg 3.25 2.375 1.2 2>/dev/null
+python3 predict_mass.py test_set_images/bar_of_soap_7.jpg 3.25 2.375 1.2 2>/dev/null
 test_set_images/bar_of_soap_7.jpg probably weighs about 0.17315 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/bar_of_soap_4.jpg 3.25 2.375 1.2 2>/dev/null
+python3 predict_mass.py test_set_images/bar_of_soap_4.jpg 3.25 2.375 1.2 2>/dev/null
 test_set_images/bar_of_soap_4.jpg probably weighs about 0.172033 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/bar_of_soap_3.jpg 3.25 2.375 1.2 2>/dev/null
+python3 predict_mass.py test_set_images/bar_of_soap_3.jpg 3.25 2.375 1.2 2>/dev/null
 test_set_images/bar_of_soap_3.jpg probably weighs about 0.169816 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/bar_of_soap_8.jpg 3.25 2.375 1.2 2>/dev/null
+python3 predict_mass.py test_set_images/bar_of_soap_8.jpg 3.25 2.375 1.2 2>/dev/null
 test_set_images/bar_of_soap_8.jpg probably weighs about 0.164767 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/bar_of_soap_5.jpg 3.25 2.375 1.2 2>/dev/null
+python3 predict_mass.py test_set_images/bar_of_soap_5.jpg 3.25 2.375 1.2 2>/dev/null
 test_set_images/bar_of_soap_5.jpg probably weighs about 0.177908 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/bar_of_soap_6.jpg 3.25 2.375 1.2 2>/dev/null
+python3 predict_mass.py test_set_images/bar_of_soap_6.jpg 3.25 2.375 1.2 2>/dev/null
 test_set_images/bar_of_soap_6.jpg probably weighs about 0.163285 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/bar_of_soap_2.jpg 3.25 2.375 1.2 2>/dev/null
+python3 predict_mass.py test_set_images/bar_of_soap_2.jpg 3.25 2.375 1.2 2>/dev/null
 test_set_images/bar_of_soap_2.jpg probably weighs about 0.207532 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/15_puzzle_2.jpg 2.375 2.375 0.25 2>/dev/null                                                                  
+python3 predict_mass.py test_set_images/15_puzzle_2.jpg 2.375 2.375 0.25 2>/dev/null                                                                  
 test_set_images/15_puzzle_2.jpg probably weighs about 0.0943611 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/15_puzzle_3.jpg 2.375 2.375 0.25 2>/dev/null
+python3 predict_mass.py test_set_images/15_puzzle_3.jpg 2.375 2.375 0.25 2>/dev/null
 test_set_images/15_puzzle_3.jpg probably weighs about 0.0918442 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/15_puzzle_5.jpg 2.375 2.375 0.25 2>/dev/null
+python3 predict_mass.py test_set_images/15_puzzle_5.jpg 2.375 2.375 0.25 2>/dev/null
 test_set_images/15_puzzle_5.jpg probably weighs about 0.101076 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/15_puzzle_1.jpg 2.375 2.375 0.25 2>/dev/null
+python3 predict_mass.py test_set_images/15_puzzle_1.jpg 2.375 2.375 0.25 2>/dev/null
 test_set_images/15_puzzle_1.jpg probably weighs about 0.089698 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/15_puzzle_4.jpg 2.375 2.375 0.25 2>/dev/null
+python3 predict_mass.py test_set_images/15_puzzle_4.jpg 2.375 2.375 0.25 2>/dev/null
 test_set_images/15_puzzle_4.jpg probably weighs about 0.097102 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/presentaiton_remote_1.jpg 4.0 1.75 1.0 2>/dev/null                                                            
+python3 predict_mass.py test_set_images/presentaiton_remote_1.jpg 4.0 1.75 1.0 2>/dev/null                                                            
 test_set_images/presentaiton_remote_1.jpg probably weighs about 0.161384 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/presentaiton_remote_6.jpg 4.0 1.75 1.0 2>/dev/null
+python3 predict_mass.py test_set_images/presentaiton_remote_6.jpg 4.0 1.75 1.0 2>/dev/null
 test_set_images/presentaiton_remote_6.jpg probably weighs about 0.149007 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/presentaiton_remote_7.jpg 4.0 1.75 1.0 2>/dev/null
+python3 predict_mass.py test_set_images/presentaiton_remote_7.jpg 4.0 1.75 1.0 2>/dev/null
 test_set_images/presentaiton_remote_7.jpg probably weighs about 0.162223 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/presentaiton_remote_3.jpg 4.0 1.75 1.0 2>/dev/null
+python3 predict_mass.py test_set_images/presentaiton_remote_3.jpg 4.0 1.75 1.0 2>/dev/null
 test_set_images/presentaiton_remote_3.jpg probably weighs about 0.149654 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/presentaiton_remote_2.jpg 4.0 1.75 1.0 2>/dev/null
+python3 predict_mass.py test_set_images/presentaiton_remote_2.jpg 4.0 1.75 1.0 2>/dev/null
 test_set_images/presentaiton_remote_2.jpg probably weighs about 0.151947 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/presentaiton_remote_4.jpg 4.0 1.75 1.0 2>/dev/null
+python3 predict_mass.py test_set_images/presentaiton_remote_4.jpg 4.0 1.75 1.0 2>/dev/null
 test_set_images/presentaiton_remote_4.jpg probably weighs about 0.178791 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/presentaiton_remote_8.jpg 4.0 1.75 1.0 2>/dev/null
+python3 predict_mass.py test_set_images/presentaiton_remote_8.jpg 4.0 1.75 1.0 2>/dev/null
 test_set_images/presentaiton_remote_8.jpg probably weighs about 0.154119 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/presentaiton_remote_5.jpg 4.0 1.75 1.0 2>/dev/null
+python3 predict_mass.py test_set_images/presentaiton_remote_5.jpg 4.0 1.75 1.0 2>/dev/null
 test_set_images/presentaiton_remote_5.jpg probably weighs about 0.151278 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/gardening_shears_7.jpg 8.5 2.0 0.75 2>/dev/null                                                               
+python3 predict_mass.py test_set_images/gardening_shears_7.jpg 8.5 2.0 0.75 2>/dev/null                                                               
 test_set_images/gardening_shears_7.jpg probably weighs about 0.458898 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/gardening_shears_5.jpg 8.5 2.0 0.75 2>/dev/null
+python3 predict_mass.py test_set_images/gardening_shears_5.jpg 8.5 2.0 0.75 2>/dev/null
 test_set_images/gardening_shears_5.jpg probably weighs about 0.511339 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/gardening_shears_4.jpg 8.5 2.0 0.75 2>/dev/null
+python3 predict_mass.py test_set_images/gardening_shears_4.jpg 8.5 2.0 0.75 2>/dev/null
 test_set_images/gardening_shears_4.jpg probably weighs about 0.545688 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/gardening_shears_8.jpg 8.5 2.0 0.75 2>/dev/null
+python3 predict_mass.py test_set_images/gardening_shears_8.jpg 8.5 2.0 0.75 2>/dev/null
 test_set_images/gardening_shears_8.jpg probably weighs about 0.311083 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/gardening_shears_3.jpg 8.5 2.0 0.75 2>/dev/null
+python3 predict_mass.py test_set_images/gardening_shears_3.jpg 8.5 2.0 0.75 2>/dev/null
 test_set_images/gardening_shears_3.jpg probably weighs about 0.401913 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/gardening_shears_9.jpg 8.5 2.0 0.75 2>/dev/null
+python3 predict_mass.py test_set_images/gardening_shears_9.jpg 8.5 2.0 0.75 2>/dev/null
 test_set_images/gardening_shears_9.jpg probably weighs about 0.384982 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/gardening_shears_11.jpg 8.5 2.0 0.75 2>/dev/null
+python3 predict_mass.py test_set_images/gardening_shears_11.jpg 8.5 2.0 0.75 2>/dev/null
 test_set_images/gardening_shears_11.jpg probably weighs about 0.611383 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/gardening_shears_1.jpg 8.5 2.0 0.75 2>/dev/null
+python3 predict_mass.py test_set_images/gardening_shears_1.jpg 8.5 2.0 0.75 2>/dev/null
 test_set_images/gardening_shears_1.jpg probably weighs about 0.30306 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/gardening_shears_10.jpg 8.5 2.0 0.75 2>/dev/null
+python3 predict_mass.py test_set_images/gardening_shears_10.jpg 8.5 2.0 0.75 2>/dev/null
 test_set_images/gardening_shears_10.jpg probably weighs about 0.690527 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/gardening_shears_6.jpg 8.5 2.0 0.75 2>/dev/null
+python3 predict_mass.py test_set_images/gardening_shears_6.jpg 8.5 2.0 0.75 2>/dev/null
 test_set_images/gardening_shears_6.jpg probably weighs about 0.40716 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/gardening_shears_2.jpg 8.5 2.0 0.75 2>/dev/null
+python3 predict_mass.py test_set_images/gardening_shears_2.jpg 8.5 2.0 0.75 2>/dev/null
 test_set_images/gardening_shears_2.jpg probably weighs about 0.592375 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/chip_clip_2.jpg 5.5 3.375 2.2 2>/dev/null                                                                     
+python3 predict_mass.py test_set_images/chip_clip_2.jpg 5.5 3.375 2.2 2>/dev/null                                                                     
 test_set_images/chip_clip_2.jpg probably weighs about 0.254074 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/chip_clip_4.jpg 5.5 3.375 2.2 2>/dev/null
+python3 predict_mass.py test_set_images/chip_clip_4.jpg 5.5 3.375 2.2 2>/dev/null
 test_set_images/chip_clip_4.jpg probably weighs about 0.248857 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/chip_clip_3.jpg 5.5 3.375 2.2 2>/dev/null
+python3 predict_mass.py test_set_images/chip_clip_3.jpg 5.5 3.375 2.2 2>/dev/null
 test_set_images/chip_clip_3.jpg probably weighs about 0.254838 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/chip_clip_5.jpg 5.5 3.375 2.2 2>/dev/null
+python3 predict_mass.py test_set_images/chip_clip_5.jpg 5.5 3.375 2.2 2>/dev/null
 test_set_images/chip_clip_5.jpg probably weighs about 0.234868 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/chip_clip_6.jpg 5.5 3.375 2.2 2>/dev/null
+python3 predict_mass.py test_set_images/chip_clip_6.jpg 5.5 3.375 2.2 2>/dev/null
 test_set_images/chip_clip_6.jpg probably weighs about 0.236837 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/chip_clip_1.jpg 5.5 3.375 2.2 2>/dev/null
+python3 predict_mass.py test_set_images/chip_clip_1.jpg 5.5 3.375 2.2 2>/dev/null
 test_set_images/chip_clip_1.jpg probably weighs about 0.261388 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/baby_shoe_3.jpg 5.7 2.6 2.6 2>/dev/null                                                                       
+python3 predict_mass.py test_set_images/baby_shoe_3.jpg 5.7 2.6 2.6 2>/dev/null                                                                       
 test_set_images/baby_shoe_3.jpg probably weighs about 0.295874 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/baby_shoe_2.jpg 5.7 2.6 2.6 2>/dev/null
+python3 predict_mass.py test_set_images/baby_shoe_2.jpg 5.7 2.6 2.6 2>/dev/null
 test_set_images/baby_shoe_2.jpg probably weighs about 0.320925 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/baby_shoe_5.jpg 5.7 2.6 2.6 2>/dev/null
+python3 predict_mass.py test_set_images/baby_shoe_5.jpg 5.7 2.6 2.6 2>/dev/null
 test_set_images/baby_shoe_5.jpg probably weighs about 0.367253 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/baby_shoe_1.jpg 5.7 2.6 2.6 2>/dev/null
+python3 predict_mass.py test_set_images/baby_shoe_1.jpg 5.7 2.6 2.6 2>/dev/null
 test_set_images/baby_shoe_1.jpg probably weighs about 0.288097 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/baby_shoe_6.jpg 5.7 2.6 2.6 2>/dev/null
+python3 predict_mass.py test_set_images/baby_shoe_6.jpg 5.7 2.6 2.6 2>/dev/null
 test_set_images/baby_shoe_6.jpg probably weighs about 0.325377 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/baby_shoe_4.jpg 5.7 2.6 2.6 2>/dev/null
+python3 predict_mass.py test_set_images/baby_shoe_4.jpg 5.7 2.6 2.6 2>/dev/null
 test_set_images/baby_shoe_4.jpg probably weighs about 0.370292 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/kitchen_knife_5.jpg 9.5 1.25 0.75 2>/dev/null                                                                 
+python3 predict_mass.py test_set_images/kitchen_knife_5.jpg 9.5 1.25 0.75 2>/dev/null                                                                 
 test_set_images/kitchen_knife_5.jpg probably weighs about 0.261401 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/kitchen_knife_6.jpg 9.5 1.25 0.75 2>/dev/null
+python3 predict_mass.py test_set_images/kitchen_knife_6.jpg 9.5 1.25 0.75 2>/dev/null
 test_set_images/kitchen_knife_6.jpg probably weighs about 0.273381 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/kitchen_knife_3.jpg 9.5 1.25 0.75 2>/dev/null
+python3 predict_mass.py test_set_images/kitchen_knife_3.jpg 9.5 1.25 0.75 2>/dev/null
 test_set_images/kitchen_knife_3.jpg probably weighs about 0.260358 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/kitchen_knife_2.jpg 9.5 1.25 0.75 2>/dev/null
+python3 predict_mass.py test_set_images/kitchen_knife_2.jpg 9.5 1.25 0.75 2>/dev/null
 test_set_images/kitchen_knife_2.jpg probably weighs about 0.28798 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/kitchen_knife_1.jpg 9.5 1.25 0.75 2>/dev/null
+python3 predict_mass.py test_set_images/kitchen_knife_1.jpg 9.5 1.25 0.75 2>/dev/null
 test_set_images/kitchen_knife_1.jpg probably weighs about 0.280795 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/kitchen_knife_4.jpg 9.5 1.25 0.75 2>/dev/null
+python3 predict_mass.py test_set_images/kitchen_knife_4.jpg 9.5 1.25 0.75 2>/dev/null
 test_set_images/kitchen_knife_4.jpg probably weighs about 0.41378 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/google_cardboard_9.jpg 5.25 3.5 3.0 2>/dev/null                                                               
+python3 predict_mass.py test_set_images/google_cardboard_9.jpg 5.25 3.5 3.0 2>/dev/null                                                               
 test_set_images/google_cardboard_9.jpg probably weighs about 0.756868 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/google_cardboard_7.jpg 5.25 3.5 3.0 2>/dev/null
+python3 predict_mass.py test_set_images/google_cardboard_7.jpg 5.25 3.5 3.0 2>/dev/null
 test_set_images/google_cardboard_7.jpg probably weighs about 0.674201 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/google_cardboard_3.jpg 5.25 3.5 3.0 2>/dev/null
+python3 predict_mass.py test_set_images/google_cardboard_3.jpg 5.25 3.5 3.0 2>/dev/null
 test_set_images/google_cardboard_3.jpg probably weighs about 0.538624 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/google_cardboard_10.jpg 5.25 3.5 3.0 2>/dev/null
+python3 predict_mass.py test_set_images/google_cardboard_10.jpg 5.25 3.5 3.0 2>/dev/null
 test_set_images/google_cardboard_10.jpg probably weighs about 0.831705 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/google_cardboard_4.jpg 5.25 3.5 3.0 2>/dev/null
+python3 predict_mass.py test_set_images/google_cardboard_4.jpg 5.25 3.5 3.0 2>/dev/null
 test_set_images/google_cardboard_4.jpg probably weighs about 1.08549 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/google_cardboard_8.jpg 5.25 3.5 3.0 2>/dev/null
+python3 predict_mass.py test_set_images/google_cardboard_8.jpg 5.25 3.5 3.0 2>/dev/null
 test_set_images/google_cardboard_8.jpg probably weighs about 0.891303 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/google_cardboard_1.jpg 5.25 3.5 3.0 2>/dev/null
+python3 predict_mass.py test_set_images/google_cardboard_1.jpg 5.25 3.5 3.0 2>/dev/null
 test_set_images/google_cardboard_1.jpg probably weighs about 0.575798 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/google_cardboard_2.jpg 5.25 3.5 3.0 2>/dev/null
+python3 predict_mass.py test_set_images/google_cardboard_2.jpg 5.25 3.5 3.0 2>/dev/null
 test_set_images/google_cardboard_2.jpg probably weighs about 0.619261 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/google_cardboard_5.jpg 5.25 3.5 3.0 2>/dev/null
+python3 predict_mass.py test_set_images/google_cardboard_5.jpg 5.25 3.5 3.0 2>/dev/null
 test_set_images/google_cardboard_5.jpg probably weighs about 0.806437 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/google_cardboard_6.jpg 5.25 3.5 3.0 2>/dev/null
+python3 predict_mass.py test_set_images/google_cardboard_6.jpg 5.25 3.5 3.0 2>/dev/null
 test_set_images/google_cardboard_6.jpg probably weighs about 0.61413 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/pliers_1.jpg 6.5 2.25 1.0 2>/dev/null                                                                         
+python3 predict_mass.py test_set_images/pliers_1.jpg 6.5 2.25 1.0 2>/dev/null                                                                         
 test_set_images/pliers_1.jpg probably weighs about 0.647155 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/pliers_4.jpg 6.5 2.25 1.0 2>/dev/null
+python3 predict_mass.py test_set_images/pliers_4.jpg 6.5 2.25 1.0 2>/dev/null
 test_set_images/pliers_4.jpg probably weighs about 0.567873 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/pliers_8.jpg 6.5 2.25 1.0 2>/dev/null
+python3 predict_mass.py test_set_images/pliers_8.jpg 6.5 2.25 1.0 2>/dev/null
 test_set_images/pliers_8.jpg probably weighs about 0.295234 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/pliers_6.jpg 6.5 2.25 1.0 2>/dev/null
+python3 predict_mass.py test_set_images/pliers_6.jpg 6.5 2.25 1.0 2>/dev/null
 test_set_images/pliers_6.jpg probably weighs about 0.312175 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/pliers_9.jpg 6.5 2.25 1.0 2>/dev/null
+python3 predict_mass.py test_set_images/pliers_9.jpg 6.5 2.25 1.0 2>/dev/null
 test_set_images/pliers_9.jpg probably weighs about 0.315598 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/pliers_3.jpg 6.5 2.25 1.0 2>/dev/null
+python3 predict_mass.py test_set_images/pliers_3.jpg 6.5 2.25 1.0 2>/dev/null
 test_set_images/pliers_3.jpg probably weighs about 0.578736 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/pliers_2.jpg 6.5 2.25 1.0 2>/dev/null
+python3 predict_mass.py test_set_images/pliers_2.jpg 6.5 2.25 1.0 2>/dev/null
 test_set_images/pliers_2.jpg probably weighs about 0.477634 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/pliers_7.jpg 6.5 2.25 1.0 2>/dev/null
+python3 predict_mass.py test_set_images/pliers_7.jpg 6.5 2.25 1.0 2>/dev/null
 test_set_images/pliers_7.jpg probably weighs about 0.293454 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/pliers_5.jpg 6.5 2.25 1.0 2>/dev/null
+python3 predict_mass.py test_set_images/pliers_5.jpg 6.5 2.25 1.0 2>/dev/null
 test_set_images/pliers_5.jpg probably weighs about 0.458609 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/umbrella_1.jpg 19.25 5.0 4.5 2>/dev/null                                                                      
+python3 predict_mass.py test_set_images/umbrella_1.jpg 19.25 5.0 4.5 2>/dev/null                                                                      
 test_set_images/umbrella_1.jpg probably weighs about 1.83083 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/umbrella_4.jpg 19.25 5.0 4.5 2>/dev/null
+python3 predict_mass.py test_set_images/umbrella_4.jpg 19.25 5.0 4.5 2>/dev/null
 test_set_images/umbrella_4.jpg probably weighs about 2.1569 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/umbrella_5.jpg 19.25 5.0 4.5 2>/dev/null
+python3 predict_mass.py test_set_images/umbrella_5.jpg 19.25 5.0 4.5 2>/dev/null
 test_set_images/umbrella_5.jpg probably weighs about 2.08279 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/umbrella_6.jpg 19.25 5.0 4.5 2>/dev/null
+python3 predict_mass.py test_set_images/umbrella_6.jpg 19.25 5.0 4.5 2>/dev/null
 test_set_images/umbrella_6.jpg probably weighs about 1.94822 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/umbrella_2.jpg 19.25 5.0 4.5 2>/dev/null
+python3 predict_mass.py test_set_images/umbrella_2.jpg 19.25 5.0 4.5 2>/dev/null
 test_set_images/umbrella_2.jpg probably weighs about 1.94999 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/umbrella_3.jpg 19.25 5.0 4.5 2>/dev/null
+python3 predict_mass.py test_set_images/umbrella_3.jpg 19.25 5.0 4.5 2>/dev/null
 test_set_images/umbrella_3.jpg probably weighs about 2.16525 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/back_scratcher_6.jpg 7.75 1.7 0.6 2>/dev/null                                                                 
+python3 predict_mass.py test_set_images/back_scratcher_6.jpg 7.75 1.7 0.6 2>/dev/null                                                                 
 test_set_images/back_scratcher_6.jpg probably weighs about 0.114161 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/back_scratcher_7.jpg 7.75 1.7 0.6 2>/dev/null
+python3 predict_mass.py test_set_images/back_scratcher_7.jpg 7.75 1.7 0.6 2>/dev/null
 test_set_images/back_scratcher_7.jpg probably weighs about 0.121682 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/back_scratcher_4.jpg 7.75 1.7 0.6 2>/dev/null
+python3 predict_mass.py test_set_images/back_scratcher_4.jpg 7.75 1.7 0.6 2>/dev/null
 test_set_images/back_scratcher_4.jpg probably weighs about 0.121444 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/back_scratcher_1.jpg 7.75 1.7 0.6 2>/dev/null
+python3 predict_mass.py test_set_images/back_scratcher_1.jpg 7.75 1.7 0.6 2>/dev/null
 test_set_images/back_scratcher_1.jpg probably weighs about 0.140215 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/back_scratcher_2.jpg 7.75 1.7 0.6 2>/dev/null
+python3 predict_mass.py test_set_images/back_scratcher_2.jpg 7.75 1.7 0.6 2>/dev/null
 test_set_images/back_scratcher_2.jpg probably weighs about 0.122899 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/back_scratcher_5.jpg 7.75 1.7 0.6 2>/dev/null
+python3 predict_mass.py test_set_images/back_scratcher_5.jpg 7.75 1.7 0.6 2>/dev/null
 test_set_images/back_scratcher_5.jpg probably weighs about 0.107567 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/back_scratcher_8.jpg 7.75 1.7 0.6 2>/dev/null
+python3 predict_mass.py test_set_images/back_scratcher_8.jpg 7.75 1.7 0.6 2>/dev/null
 test_set_images/back_scratcher_8.jpg probably weighs about 0.129835 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/back_scratcher_3.jpg 7.75 1.7 0.6 2>/dev/null
+python3 predict_mass.py test_set_images/back_scratcher_3.jpg 7.75 1.7 0.6 2>/dev/null
 test_set_images/back_scratcher_3.jpg probably weighs about 0.117675 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/block_8.jpg 5.45 2.7 1.35 2>/dev/null                                                                         
+python3 predict_mass.py test_set_images/block_8.jpg 5.45 2.7 1.35 2>/dev/null                                                                         
 test_set_images/block_8.jpg probably weighs about 0.47975 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/block_6.jpg 5.45 2.7 1.35 2>/dev/null
+python3 predict_mass.py test_set_images/block_6.jpg 5.45 2.7 1.35 2>/dev/null
 test_set_images/block_6.jpg probably weighs about 0.494103 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/block_2.jpg 5.45 2.7 1.35 2>/dev/null
+python3 predict_mass.py test_set_images/block_2.jpg 5.45 2.7 1.35 2>/dev/null
 test_set_images/block_2.jpg probably weighs about 0.4992 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/block_7.jpg 5.45 2.7 1.35 2>/dev/null
+python3 predict_mass.py test_set_images/block_7.jpg 5.45 2.7 1.35 2>/dev/null
 test_set_images/block_7.jpg probably weighs about 0.404718 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/block_11.jpg 5.45 2.7 1.35 2>/dev/null
+python3 predict_mass.py test_set_images/block_11.jpg 5.45 2.7 1.35 2>/dev/null
 test_set_images/block_11.jpg probably weighs about 0.455749 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/block_9.jpg 5.45 2.7 1.35 2>/dev/null
+python3 predict_mass.py test_set_images/block_9.jpg 5.45 2.7 1.35 2>/dev/null
 test_set_images/block_9.jpg probably weighs about 0.443631 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/block_3.jpg 5.45 2.7 1.35 2>/dev/null
+python3 predict_mass.py test_set_images/block_3.jpg 5.45 2.7 1.35 2>/dev/null
 test_set_images/block_3.jpg probably weighs about 0.504944 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/block_5.jpg 5.45 2.7 1.35 2>/dev/null
+python3 predict_mass.py test_set_images/block_5.jpg 5.45 2.7 1.35 2>/dev/null
 test_set_images/block_5.jpg probably weighs about 0.41625 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/block_10.jpg 5.45 2.7 1.35 2>/dev/null
+python3 predict_mass.py test_set_images/block_10.jpg 5.45 2.7 1.35 2>/dev/null
 test_set_images/block_10.jpg probably weighs about 0.435059 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/block_4.jpg 5.45 2.7 1.35 2>/dev/null
+python3 predict_mass.py test_set_images/block_4.jpg 5.45 2.7 1.35 2>/dev/null
 test_set_images/block_4.jpg probably weighs about 0.500078 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/block_1.jpg 5.45 2.7 1.35 2>/dev/null
+python3 predict_mass.py test_set_images/block_1.jpg 5.45 2.7 1.35 2>/dev/null
 test_set_images/block_1.jpg probably weighs about 0.453864 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/big_bowl_5.jpg 6.75 6.75 3.5 2>/dev/null                                                                      
+python3 predict_mass.py test_set_images/big_bowl_5.jpg 6.75 6.75 3.5 2>/dev/null                                                                      
 test_set_images/big_bowl_5.jpg probably weighs about 1.13771 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/big_bowl_2.jpg 6.75 6.75 3.5 2>/dev/null
+python3 predict_mass.py test_set_images/big_bowl_2.jpg 6.75 6.75 3.5 2>/dev/null
 test_set_images/big_bowl_2.jpg probably weighs about 1.30149 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/big_bowl_4.jpg 6.75 6.75 3.5 2>/dev/null
+python3 predict_mass.py test_set_images/big_bowl_4.jpg 6.75 6.75 3.5 2>/dev/null
 test_set_images/big_bowl_4.jpg probably weighs about 0.810011 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/big_bowl_6.jpg 6.75 6.75 3.5 2>/dev/null
+python3 predict_mass.py test_set_images/big_bowl_6.jpg 6.75 6.75 3.5 2>/dev/null
 test_set_images/big_bowl_6.jpg probably weighs about 1.19483 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/big_bowl_1.jpg 6.75 6.75 3.5 2>/dev/null
+python3 predict_mass.py test_set_images/big_bowl_1.jpg 6.75 6.75 3.5 2>/dev/null
 test_set_images/big_bowl_1.jpg probably weighs about 1.15334 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/big_bowl_3.jpg 6.75 6.75 3.5 2>/dev/null
+python3 predict_mass.py test_set_images/big_bowl_3.jpg 6.75 6.75 3.5 2>/dev/null
 test_set_images/big_bowl_3.jpg probably weighs about 1.0718 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/wooden_spoon_3.jpg 9.75 3.0 0.75 2>/dev/null                                                                  
+python3 predict_mass.py test_set_images/wooden_spoon_3.jpg 9.75 3.0 0.75 2>/dev/null                                                                  
 test_set_images/wooden_spoon_3.jpg probably weighs about 0.627838 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/wooden_spoon_1.jpg 9.75 3.0 0.75 2>/dev/null
+python3 predict_mass.py test_set_images/wooden_spoon_1.jpg 9.75 3.0 0.75 2>/dev/null
 test_set_images/wooden_spoon_1.jpg probably weighs about 0.182554 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/wooden_spoon_2.jpg 9.75 3.0 0.75 2>/dev/null
+python3 predict_mass.py test_set_images/wooden_spoon_2.jpg 9.75 3.0 0.75 2>/dev/null
 test_set_images/wooden_spoon_2.jpg probably weighs about 0.156994 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/wooden_spoon_10.jpg 9.75 3.0 0.75 2>/dev/null
+python3 predict_mass.py test_set_images/wooden_spoon_10.jpg 9.75 3.0 0.75 2>/dev/null
 test_set_images/wooden_spoon_10.jpg probably weighs about 0.349618 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/wooden_spoon_7.jpg 9.75 3.0 0.75 2>/dev/null
+python3 predict_mass.py test_set_images/wooden_spoon_7.jpg 9.75 3.0 0.75 2>/dev/null
 test_set_images/wooden_spoon_7.jpg probably weighs about 0.365172 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/wooden_spoon_5.jpg 9.75 3.0 0.75 2>/dev/null
+python3 predict_mass.py test_set_images/wooden_spoon_5.jpg 9.75 3.0 0.75 2>/dev/null
 test_set_images/wooden_spoon_5.jpg probably weighs about 0.237169 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/wooden_spoon_9.jpg 9.75 3.0 0.75 2>/dev/null
+python3 predict_mass.py test_set_images/wooden_spoon_9.jpg 9.75 3.0 0.75 2>/dev/null
 test_set_images/wooden_spoon_9.jpg probably weighs about 0.255981 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/wooden_spoon_8.jpg 9.75 3.0 0.75 2>/dev/null
+python3 predict_mass.py test_set_images/wooden_spoon_8.jpg 9.75 3.0 0.75 2>/dev/null
 test_set_images/wooden_spoon_8.jpg probably weighs about 0.247808 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/wooden_spoon_4.jpg 9.75 3.0 0.75 2>/dev/null
+python3 predict_mass.py test_set_images/wooden_spoon_4.jpg 9.75 3.0 0.75 2>/dev/null
 test_set_images/wooden_spoon_4.jpg probably weighs about 0.19619 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/wooden_spoon_6.jpg 9.75 3.0 0.75 2>/dev/null
+python3 predict_mass.py test_set_images/wooden_spoon_6.jpg 9.75 3.0 0.75 2>/dev/null
 test_set_images/wooden_spoon_6.jpg probably weighs about 0.184293 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/tape_measure_9.jpg 2.8 2.75 1.5 2>/dev/null                                                                   
+python3 predict_mass.py test_set_images/tape_measure_9.jpg 2.8 2.75 1.5 2>/dev/null                                                                   
 test_set_images/tape_measure_9.jpg probably weighs about 0.210358 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/tape_measure_1.jpg 2.8 2.75 1.5 2>/dev/null
+python3 predict_mass.py test_set_images/tape_measure_1.jpg 2.8 2.75 1.5 2>/dev/null
 test_set_images/tape_measure_1.jpg probably weighs about 0.280695 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/tape_measure_8.jpg 2.8 2.75 1.5 2>/dev/null
+python3 predict_mass.py test_set_images/tape_measure_8.jpg 2.8 2.75 1.5 2>/dev/null
 test_set_images/tape_measure_8.jpg probably weighs about 0.219236 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/tape_measure_3.jpg 2.8 2.75 1.5 2>/dev/null
+python3 predict_mass.py test_set_images/tape_measure_3.jpg 2.8 2.75 1.5 2>/dev/null
 test_set_images/tape_measure_3.jpg probably weighs about 0.267892 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/tape_measure_4.jpg 2.8 2.75 1.5 2>/dev/null
+python3 predict_mass.py test_set_images/tape_measure_4.jpg 2.8 2.75 1.5 2>/dev/null
 test_set_images/tape_measure_4.jpg probably weighs about 0.282843 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/tape_measure_5.jpg 2.8 2.75 1.5 2>/dev/null
+python3 predict_mass.py test_set_images/tape_measure_5.jpg 2.8 2.75 1.5 2>/dev/null
 test_set_images/tape_measure_5.jpg probably weighs about 0.256884 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/tape_measure_6.jpg 2.8 2.75 1.5 2>/dev/null
+python3 predict_mass.py test_set_images/tape_measure_6.jpg 2.8 2.75 1.5 2>/dev/null
 test_set_images/tape_measure_6.jpg probably weighs about 0.233381 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/tape_measure_2.jpg 2.8 2.75 1.5 2>/dev/null
+python3 predict_mass.py test_set_images/tape_measure_2.jpg 2.8 2.75 1.5 2>/dev/null
 test_set_images/tape_measure_2.jpg probably weighs about 0.271944 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/tape_measure_7.jpg 2.8 2.75 1.5 2>/dev/null
+python3 predict_mass.py test_set_images/tape_measure_7.jpg 2.8 2.75 1.5 2>/dev/null
 test_set_images/tape_measure_7.jpg probably weighs about 0.251773 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/bottle_brush_1.jpg 12.5 2.875 2.875 2>/dev/null                                                               
+python3 predict_mass.py test_set_images/bottle_brush_1.jpg 12.5 2.875 2.875 2>/dev/null                                                               
 test_set_images/bottle_brush_1.jpg probably weighs about 0.281564 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/bottle_brush_6.jpg 12.5 2.875 2.875 2>/dev/null
+python3 predict_mass.py test_set_images/bottle_brush_6.jpg 12.5 2.875 2.875 2>/dev/null
 test_set_images/bottle_brush_6.jpg probably weighs about 0.296309 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/bottle_brush_9.jpg 12.5 2.875 2.875 2>/dev/null
+python3 predict_mass.py test_set_images/bottle_brush_9.jpg 12.5 2.875 2.875 2>/dev/null
 test_set_images/bottle_brush_9.jpg probably weighs about 0.259731 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/bottle_brush_4.jpg 12.5 2.875 2.875 2>/dev/null
+python3 predict_mass.py test_set_images/bottle_brush_4.jpg 12.5 2.875 2.875 2>/dev/null
 test_set_images/bottle_brush_4.jpg probably weighs about 0.277758 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/bottle_brush_2.jpg 12.5 2.875 2.875 2>/dev/null
+python3 predict_mass.py test_set_images/bottle_brush_2.jpg 12.5 2.875 2.875 2>/dev/null
 test_set_images/bottle_brush_2.jpg probably weighs about 0.318797 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/bottle_brush_10.jpg 12.5 2.875 2.875 2>/dev/null
+python3 predict_mass.py test_set_images/bottle_brush_10.jpg 12.5 2.875 2.875 2>/dev/null
 test_set_images/bottle_brush_10.jpg probably weighs about 0.337732 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/bottle_brush_8.jpg 12.5 2.875 2.875 2>/dev/null
+python3 predict_mass.py test_set_images/bottle_brush_8.jpg 12.5 2.875 2.875 2>/dev/null
 test_set_images/bottle_brush_8.jpg probably weighs about 0.316943 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/bottle_brush_5.jpg 12.5 2.875 2.875 2>/dev/null
+python3 predict_mass.py test_set_images/bottle_brush_5.jpg 12.5 2.875 2.875 2>/dev/null
 test_set_images/bottle_brush_5.jpg probably weighs about 0.295751 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/bottle_brush_7.jpg 12.5 2.875 2.875 2>/dev/null
+python3 predict_mass.py test_set_images/bottle_brush_7.jpg 12.5 2.875 2.875 2>/dev/null
 test_set_images/bottle_brush_7.jpg probably weighs about 0.335111 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/pillow_10.jpg 17.0 17.0 8.5 2>/dev/null                                                                       
+python3 predict_mass.py test_set_images/pillow_10.jpg 17.0 17.0 8.5 2>/dev/null                                                                       
 test_set_images/pillow_10.jpg probably weighs about 4.2368 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/pillow_5.jpg 17.0 17.0 8.5 2>/dev/null
+python3 predict_mass.py test_set_images/pillow_5.jpg 17.0 17.0 8.5 2>/dev/null
 test_set_images/pillow_5.jpg probably weighs about 3.65243 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/pillow_7.jpg 17.0 17.0 8.5 2>/dev/null
+python3 predict_mass.py test_set_images/pillow_7.jpg 17.0 17.0 8.5 2>/dev/null
 test_set_images/pillow_7.jpg probably weighs about 3.32686 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/pillow_2.jpg 17.0 17.0 8.5 2>/dev/null
+python3 predict_mass.py test_set_images/pillow_2.jpg 17.0 17.0 8.5 2>/dev/null
 test_set_images/pillow_2.jpg probably weighs about 3.42921 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/pillow_4.jpg 17.0 17.0 8.5 2>/dev/null
+python3 predict_mass.py test_set_images/pillow_4.jpg 17.0 17.0 8.5 2>/dev/null
 test_set_images/pillow_4.jpg probably weighs about 3.66125 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/pillow_9.jpg 17.0 17.0 8.5 2>/dev/null
+python3 predict_mass.py test_set_images/pillow_9.jpg 17.0 17.0 8.5 2>/dev/null
 test_set_images/pillow_9.jpg probably weighs about 3.15594 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/pillow_6.jpg 17.0 17.0 8.5 2>/dev/null
+python3 predict_mass.py test_set_images/pillow_6.jpg 17.0 17.0 8.5 2>/dev/null
 test_set_images/pillow_6.jpg probably weighs about 3.26587 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/pillow_8.jpg 17.0 17.0 8.5 2>/dev/null
+python3 predict_mass.py test_set_images/pillow_8.jpg 17.0 17.0 8.5 2>/dev/null
 test_set_images/pillow_8.jpg probably weighs about 3.58423 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/pillow_3.jpg 17.0 17.0 8.5 2>/dev/null
+python3 predict_mass.py test_set_images/pillow_3.jpg 17.0 17.0 8.5 2>/dev/null
 test_set_images/pillow_3.jpg probably weighs about 2.7507 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/pillow_1.jpg 17.0 17.0 8.5 2>/dev/null
+python3 predict_mass.py test_set_images/pillow_1.jpg 17.0 17.0 8.5 2>/dev/null
 test_set_images/pillow_1.jpg probably weighs about 3.25339 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/dali_clock_2.jpg 13.75 11.25 1.7 2>/dev/null                                                                  
+python3 predict_mass.py test_set_images/dali_clock_2.jpg 13.75 11.25 1.7 2>/dev/null                                                                  
 test_set_images/dali_clock_2.jpg probably weighs about 1.88774 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/dali_clock_1.jpg 13.75 11.25 1.7 2>/dev/null
+python3 predict_mass.py test_set_images/dali_clock_1.jpg 13.75 11.25 1.7 2>/dev/null
 test_set_images/dali_clock_1.jpg probably weighs about 1.6463 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/dali_clock_8.jpg 13.75 11.25 1.7 2>/dev/null
+python3 predict_mass.py test_set_images/dali_clock_8.jpg 13.75 11.25 1.7 2>/dev/null
 test_set_images/dali_clock_8.jpg probably weighs about 1.50622 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/dali_clock_3.jpg 13.75 11.25 1.7 2>/dev/null
+python3 predict_mass.py test_set_images/dali_clock_3.jpg 13.75 11.25 1.7 2>/dev/null
 test_set_images/dali_clock_3.jpg probably weighs about 1.71276 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/dali_clock_5.jpg 13.75 11.25 1.7 2>/dev/null
+python3 predict_mass.py test_set_images/dali_clock_5.jpg 13.75 11.25 1.7 2>/dev/null
 test_set_images/dali_clock_5.jpg probably weighs about 1.68485 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/dali_clock_4.jpg 13.75 11.25 1.7 2>/dev/null
+python3 predict_mass.py test_set_images/dali_clock_4.jpg 13.75 11.25 1.7 2>/dev/null
 test_set_images/dali_clock_4.jpg probably weighs about 1.74381 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/dali_clock_7.jpg 13.75 11.25 1.7 2>/dev/null
+python3 predict_mass.py test_set_images/dali_clock_7.jpg 13.75 11.25 1.7 2>/dev/null
 test_set_images/dali_clock_7.jpg probably weighs about 1.56874 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/dali_clock_6.jpg 13.75 11.25 1.7 2>/dev/null
+python3 predict_mass.py test_set_images/dali_clock_6.jpg 13.75 11.25 1.7 2>/dev/null
 test_set_images/dali_clock_6.jpg probably weighs about 1.72255 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/disk_drive_2.jpg 5.5 4.125 0.75 2>/dev/null                                                                   
+python3 predict_mass.py test_set_images/disk_drive_2.jpg 5.5 4.125 0.75 2>/dev/null                                                                   
 test_set_images/disk_drive_2.jpg probably weighs about 0.299954 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/disk_drive_7.jpg 5.5 4.125 0.75 2>/dev/null
+python3 predict_mass.py test_set_images/disk_drive_7.jpg 5.5 4.125 0.75 2>/dev/null
 test_set_images/disk_drive_7.jpg probably weighs about 0.233875 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/disk_drive_3.jpg 5.5 4.125 0.75 2>/dev/null
+python3 predict_mass.py test_set_images/disk_drive_3.jpg 5.5 4.125 0.75 2>/dev/null
 test_set_images/disk_drive_3.jpg probably weighs about 0.31273 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/disk_drive_1.jpg 5.5 4.125 0.75 2>/dev/null
+python3 predict_mass.py test_set_images/disk_drive_1.jpg 5.5 4.125 0.75 2>/dev/null
 test_set_images/disk_drive_1.jpg probably weighs about 0.217191 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/disk_drive_6.jpg 5.5 4.125 0.75 2>/dev/null
+python3 predict_mass.py test_set_images/disk_drive_6.jpg 5.5 4.125 0.75 2>/dev/null
 test_set_images/disk_drive_6.jpg probably weighs about 0.287239 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/disk_drive_4.jpg 5.5 4.125 0.75 2>/dev/null
+python3 predict_mass.py test_set_images/disk_drive_4.jpg 5.5 4.125 0.75 2>/dev/null
 test_set_images/disk_drive_4.jpg probably weighs about 0.204073 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/disk_drive_5.jpg 5.5 4.125 0.75 2>/dev/null
+python3 predict_mass.py test_set_images/disk_drive_5.jpg 5.5 4.125 0.75 2>/dev/null
 test_set_images/disk_drive_5.jpg probably weighs about 0.239004 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/keyboard_3.jpg 17.75 7.625 0.9 2>/dev/null                                                                    
+python3 predict_mass.py test_set_images/keyboard_3.jpg 17.75 7.625 0.9 2>/dev/null                                                                    
 test_set_images/keyboard_3.jpg probably weighs about 1.82239 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/keyboard_4.jpg 17.75 7.625 0.9 2>/dev/null
+python3 predict_mass.py test_set_images/keyboard_4.jpg 17.75 7.625 0.9 2>/dev/null
 test_set_images/keyboard_4.jpg probably weighs about 1.58266 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/keyboard_5.jpg 17.75 7.625 0.9 2>/dev/null
+python3 predict_mass.py test_set_images/keyboard_5.jpg 17.75 7.625 0.9 2>/dev/null
 test_set_images/keyboard_5.jpg probably weighs about 1.63993 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/keyboard_2.jpg 17.75 7.625 0.9 2>/dev/null
+python3 predict_mass.py test_set_images/keyboard_2.jpg 17.75 7.625 0.9 2>/dev/null
 test_set_images/keyboard_2.jpg probably weighs about 2.01436 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/keyboard_1.jpg 17.75 7.625 0.9 2>/dev/null
+python3 predict_mass.py test_set_images/keyboard_1.jpg 17.75 7.625 0.9 2>/dev/null
 test_set_images/keyboard_1.jpg probably weighs about 1.76362 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/little_stapler_5.jpg 2.5 1.25 1.5 2>/dev/null                                                                 
+python3 predict_mass.py test_set_images/little_stapler_5.jpg 2.5 1.25 1.5 2>/dev/null                                                                 
 test_set_images/little_stapler_5.jpg probably weighs about 0.128922 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/little_stapler_3.jpg 2.5 1.25 1.5 2>/dev/null
+python3 predict_mass.py test_set_images/little_stapler_3.jpg 2.5 1.25 1.5 2>/dev/null
 test_set_images/little_stapler_3.jpg probably weighs about 0.13825 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/little_stapler_7.jpg 2.5 1.25 1.5 2>/dev/null
+python3 predict_mass.py test_set_images/little_stapler_7.jpg 2.5 1.25 1.5 2>/dev/null
 test_set_images/little_stapler_7.jpg probably weighs about 0.149049 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/little_stapler_1.jpg 2.5 1.25 1.5 2>/dev/null
+python3 predict_mass.py test_set_images/little_stapler_1.jpg 2.5 1.25 1.5 2>/dev/null
 test_set_images/little_stapler_1.jpg probably weighs about 0.129321 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/little_stapler_6.jpg 2.5 1.25 1.5 2>/dev/null
+python3 predict_mass.py test_set_images/little_stapler_6.jpg 2.5 1.25 1.5 2>/dev/null
 test_set_images/little_stapler_6.jpg probably weighs about 0.145994 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/little_stapler_8.jpg 2.5 1.25 1.5 2>/dev/null
+python3 predict_mass.py test_set_images/little_stapler_8.jpg 2.5 1.25 1.5 2>/dev/null
 test_set_images/little_stapler_8.jpg probably weighs about 0.132743 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/little_stapler_2.jpg 2.5 1.25 1.5 2>/dev/null
+python3 predict_mass.py test_set_images/little_stapler_2.jpg 2.5 1.25 1.5 2>/dev/null
 test_set_images/little_stapler_2.jpg probably weighs about 0.140309 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/little_stapler_4.jpg 2.5 1.25 1.5 2>/dev/null
+python3 predict_mass.py test_set_images/little_stapler_4.jpg 2.5 1.25 1.5 2>/dev/null
 test_set_images/little_stapler_4.jpg probably weighs about 0.135816 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/tv_remote_2.jpg 9.0 2.5 1.25 2>/dev/null                                                                      
+python3 predict_mass.py test_set_images/tv_remote_2.jpg 9.0 2.5 1.25 2>/dev/null                                                                      
 test_set_images/tv_remote_2.jpg probably weighs about 0.354013 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/tv_remote_5.jpg 9.0 2.5 1.25 2>/dev/null
+python3 predict_mass.py test_set_images/tv_remote_5.jpg 9.0 2.5 1.25 2>/dev/null
 test_set_images/tv_remote_5.jpg probably weighs about 0.337339 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/tv_remote_7.jpg 9.0 2.5 1.25 2>/dev/null
+python3 predict_mass.py test_set_images/tv_remote_7.jpg 9.0 2.5 1.25 2>/dev/null
 test_set_images/tv_remote_7.jpg probably weighs about 0.596001 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/tv_remote_10.jpg 9.0 2.5 1.25 2>/dev/null
+python3 predict_mass.py test_set_images/tv_remote_10.jpg 9.0 2.5 1.25 2>/dev/null
 test_set_images/tv_remote_10.jpg probably weighs about 0.338716 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/tv_remote_1.jpg 9.0 2.5 1.25 2>/dev/null
+python3 predict_mass.py test_set_images/tv_remote_1.jpg 9.0 2.5 1.25 2>/dev/null
 test_set_images/tv_remote_1.jpg probably weighs about 0.366314 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/tv_remote_3.jpg 9.0 2.5 1.25 2>/dev/null
+python3 predict_mass.py test_set_images/tv_remote_3.jpg 9.0 2.5 1.25 2>/dev/null
 test_set_images/tv_remote_3.jpg probably weighs about 0.338863 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/tv_remote_9.jpg 9.0 2.5 1.25 2>/dev/null
+python3 predict_mass.py test_set_images/tv_remote_9.jpg 9.0 2.5 1.25 2>/dev/null
 test_set_images/tv_remote_9.jpg probably weighs about 0.411311 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/tv_remote_6.jpg 9.0 2.5 1.25 2>/dev/null
+python3 predict_mass.py test_set_images/tv_remote_6.jpg 9.0 2.5 1.25 2>/dev/null
 test_set_images/tv_remote_6.jpg probably weighs about 0.453383 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/tv_remote_8.jpg 9.0 2.5 1.25 2>/dev/null
+python3 predict_mass.py test_set_images/tv_remote_8.jpg 9.0 2.5 1.25 2>/dev/null
 test_set_images/tv_remote_8.jpg probably weighs about 0.501127 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/tv_remote_4.jpg 9.0 2.5 1.25 2>/dev/null
+python3 predict_mass.py test_set_images/tv_remote_4.jpg 9.0 2.5 1.25 2>/dev/null
 test_set_images/tv_remote_4.jpg probably weighs about 0.359396 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/big_stapler_6.jpg 5.75 1.25 3.375 2>/dev/null                                                                 
+python3 predict_mass.py test_set_images/big_stapler_6.jpg 5.75 1.25 3.375 2>/dev/null                                                                 
 test_set_images/big_stapler_6.jpg probably weighs about 0.28435 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/big_stapler_3.jpg 5.75 1.25 3.375 2>/dev/null
+python3 predict_mass.py test_set_images/big_stapler_3.jpg 5.75 1.25 3.375 2>/dev/null
 test_set_images/big_stapler_3.jpg probably weighs about 0.264603 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/big_stapler_8.jpg 5.75 1.25 3.375 2>/dev/null
+python3 predict_mass.py test_set_images/big_stapler_8.jpg 5.75 1.25 3.375 2>/dev/null
 test_set_images/big_stapler_8.jpg probably weighs about 0.299846 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/big_stapler_5.jpg 5.75 1.25 3.375 2>/dev/null
+python3 predict_mass.py test_set_images/big_stapler_5.jpg 5.75 1.25 3.375 2>/dev/null
 test_set_images/big_stapler_5.jpg probably weighs about 0.249933 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/big_stapler_7.jpg 5.75 1.25 3.375 2>/dev/null
+python3 predict_mass.py test_set_images/big_stapler_7.jpg 5.75 1.25 3.375 2>/dev/null
 test_set_images/big_stapler_7.jpg probably weighs about 0.340631 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/big_stapler_4.jpg 5.75 1.25 3.375 2>/dev/null
+python3 predict_mass.py test_set_images/big_stapler_4.jpg 5.75 1.25 3.375 2>/dev/null
 test_set_images/big_stapler_4.jpg probably weighs about 0.389978 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/big_stapler_2.jpg 5.75 1.25 3.375 2>/dev/null
+python3 predict_mass.py test_set_images/big_stapler_2.jpg 5.75 1.25 3.375 2>/dev/null
 test_set_images/big_stapler_2.jpg probably weighs about 0.270357 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/big_stapler_1.jpg 5.75 1.25 3.375 2>/dev/null
+python3 predict_mass.py test_set_images/big_stapler_1.jpg 5.75 1.25 3.375 2>/dev/null
 test_set_images/big_stapler_1.jpg probably weighs about 0.289085 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/hair_dryer_2.jpg 7.15 14.0 3.3 2>/dev/null                                                                    
+python3 predict_mass.py test_set_images/hair_dryer_2.jpg 7.15 14.0 3.3 2>/dev/null                                                                    
 test_set_images/hair_dryer_2.jpg probably weighs about 3.82187 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/hair_dryer_6.jpg 7.15 14.0 3.3 2>/dev/null
+python3 predict_mass.py test_set_images/hair_dryer_6.jpg 7.15 14.0 3.3 2>/dev/null
 test_set_images/hair_dryer_6.jpg probably weighs about 3.22593 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/hair_dryer_11.jpg 7.15 14.0 3.3 2>/dev/null
+python3 predict_mass.py test_set_images/hair_dryer_11.jpg 7.15 14.0 3.3 2>/dev/null
 test_set_images/hair_dryer_11.jpg probably weighs about 3.62621 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/hair_dryer_10.jpg 7.15 14.0 3.3 2>/dev/null
+python3 predict_mass.py test_set_images/hair_dryer_10.jpg 7.15 14.0 3.3 2>/dev/null
 test_set_images/hair_dryer_10.jpg probably weighs about 3.53085 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/hair_dryer_7.jpg 7.15 14.0 3.3 2>/dev/null
+python3 predict_mass.py test_set_images/hair_dryer_7.jpg 7.15 14.0 3.3 2>/dev/null
 test_set_images/hair_dryer_7.jpg probably weighs about 3.09483 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/hair_dryer_3.jpg 7.15 14.0 3.3 2>/dev/null
+python3 predict_mass.py test_set_images/hair_dryer_3.jpg 7.15 14.0 3.3 2>/dev/null
 test_set_images/hair_dryer_3.jpg probably weighs about 4.02162 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/hair_dryer_4.jpg 7.15 14.0 3.3 2>/dev/null
+python3 predict_mass.py test_set_images/hair_dryer_4.jpg 7.15 14.0 3.3 2>/dev/null
 test_set_images/hair_dryer_4.jpg probably weighs about 3.16083 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/hair_dryer_9.jpg 7.15 14.0 3.3 2>/dev/null
+python3 predict_mass.py test_set_images/hair_dryer_9.jpg 7.15 14.0 3.3 2>/dev/null
 test_set_images/hair_dryer_9.jpg probably weighs about 3.14965 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/hair_dryer_5.jpg 7.15 14.0 3.3 2>/dev/null
+python3 predict_mass.py test_set_images/hair_dryer_5.jpg 7.15 14.0 3.3 2>/dev/null
 test_set_images/hair_dryer_5.jpg probably weighs about 3.27783 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/hair_dryer_1.jpg 7.15 14.0 3.3 2>/dev/null
+python3 predict_mass.py test_set_images/hair_dryer_1.jpg 7.15 14.0 3.3 2>/dev/null
 test_set_images/hair_dryer_1.jpg probably weighs about 3.80173 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/hair_dryer_8.jpg 7.15 14.0 3.3 2>/dev/null
+python3 predict_mass.py test_set_images/hair_dryer_8.jpg 7.15 14.0 3.3 2>/dev/null
 test_set_images/hair_dryer_8.jpg probably weighs about 2.00435 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/hair_dryer_12.jpg 7.15 14.0 3.3 2>/dev/null
+python3 predict_mass.py test_set_images/hair_dryer_12.jpg 7.15 14.0 3.3 2>/dev/null
 test_set_images/hair_dryer_12.jpg probably weighs about 3.32325 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/toy_airplane_4.jpg 8.25 9.25 4.25 2>/dev/null                                                                 
+python3 predict_mass.py test_set_images/toy_airplane_4.jpg 8.25 9.25 4.25 2>/dev/null                                                                 
 test_set_images/toy_airplane_4.jpg probably weighs about 0.454411 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/toy_airplane_6.jpg 8.25 9.25 4.25 2>/dev/null
+python3 predict_mass.py test_set_images/toy_airplane_6.jpg 8.25 9.25 4.25 2>/dev/null
 test_set_images/toy_airplane_6.jpg probably weighs about 0.564883 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/toy_airplane_2.jpg 8.25 9.25 4.25 2>/dev/null
+python3 predict_mass.py test_set_images/toy_airplane_2.jpg 8.25 9.25 4.25 2>/dev/null
 test_set_images/toy_airplane_2.jpg probably weighs about 0.527775 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/toy_airplane_3.jpg 8.25 9.25 4.25 2>/dev/null
+python3 predict_mass.py test_set_images/toy_airplane_3.jpg 8.25 9.25 4.25 2>/dev/null
 test_set_images/toy_airplane_3.jpg probably weighs about 0.542856 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/toy_airplane_1.jpg 8.25 9.25 4.25 2>/dev/null
+python3 predict_mass.py test_set_images/toy_airplane_1.jpg 8.25 9.25 4.25 2>/dev/null
 test_set_images/toy_airplane_1.jpg probably weighs about 0.480017 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/toy_airplane_8.jpg 8.25 9.25 4.25 2>/dev/null
+python3 predict_mass.py test_set_images/toy_airplane_8.jpg 8.25 9.25 4.25 2>/dev/null
 test_set_images/toy_airplane_8.jpg probably weighs about 0.527704 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/toy_airplane_5.jpg 8.25 9.25 4.25 2>/dev/null
+python3 predict_mass.py test_set_images/toy_airplane_5.jpg 8.25 9.25 4.25 2>/dev/null
 test_set_images/toy_airplane_5.jpg probably weighs about 0.516294 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/toy_airplane_7.jpg 8.25 9.25 4.25 2>/dev/null
+python3 predict_mass.py test_set_images/toy_airplane_7.jpg 8.25 9.25 4.25 2>/dev/null
 test_set_images/toy_airplane_7.jpg probably weighs about 0.457156 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/sun_chips_6.jpg 7.5 11.625 3.0 2>/dev/null                                                                    
+python3 predict_mass.py test_set_images/sun_chips_6.jpg 7.5 11.625 3.0 2>/dev/null                                                                    
 test_set_images/sun_chips_6.jpg probably weighs about 0.770659 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/sun_chips_2.jpg 7.5 11.625 3.0 2>/dev/null
+python3 predict_mass.py test_set_images/sun_chips_2.jpg 7.5 11.625 3.0 2>/dev/null
 test_set_images/sun_chips_2.jpg probably weighs about 0.995539 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/sun_chips_4.jpg 7.5 11.625 3.0 2>/dev/null
+python3 predict_mass.py test_set_images/sun_chips_4.jpg 7.5 11.625 3.0 2>/dev/null
 test_set_images/sun_chips_4.jpg probably weighs about 0.893354 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/sun_chips_1.jpg 7.5 11.625 3.0 2>/dev/null
+python3 predict_mass.py test_set_images/sun_chips_1.jpg 7.5 11.625 3.0 2>/dev/null
 test_set_images/sun_chips_1.jpg probably weighs about 0.928614 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/sun_chips_3.jpg 7.5 11.625 3.0 2>/dev/null
+python3 predict_mass.py test_set_images/sun_chips_3.jpg 7.5 11.625 3.0 2>/dev/null
 test_set_images/sun_chips_3.jpg probably weighs about 0.820914 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/sun_chips_5.jpg 7.5 11.625 3.0 2>/dev/null
+python3 predict_mass.py test_set_images/sun_chips_5.jpg 7.5 11.625 3.0 2>/dev/null
 test_set_images/sun_chips_5.jpg probably weighs about 0.76994 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/drill_1.jpg 8.25 6.7 3.0 2>/dev/null                                                                          
+python3 predict_mass.py test_set_images/drill_1.jpg 8.25 6.7 3.0 2>/dev/null                                                                          
 test_set_images/drill_1.jpg probably weighs about 8.04747 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/drill_10.jpg 8.25 6.7 3.0 2>/dev/null
+python3 predict_mass.py test_set_images/drill_10.jpg 8.25 6.7 3.0 2>/dev/null
 test_set_images/drill_10.jpg probably weighs about 5.71222 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/drill_3.jpg 8.25 6.7 3.0 2>/dev/null
+python3 predict_mass.py test_set_images/drill_3.jpg 8.25 6.7 3.0 2>/dev/null
 test_set_images/drill_3.jpg probably weighs about 5.9091 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/drill_4.jpg 8.25 6.7 3.0 2>/dev/null
+python3 predict_mass.py test_set_images/drill_4.jpg 8.25 6.7 3.0 2>/dev/null
 test_set_images/drill_4.jpg probably weighs about 5.33677 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/drill_6.jpg 8.25 6.7 3.0 2>/dev/null
+python3 predict_mass.py test_set_images/drill_6.jpg 8.25 6.7 3.0 2>/dev/null
 test_set_images/drill_6.jpg probably weighs about 4.01139 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/drill_8.jpg 8.25 6.7 3.0 2>/dev/null
+python3 predict_mass.py test_set_images/drill_8.jpg 8.25 6.7 3.0 2>/dev/null
 test_set_images/drill_8.jpg probably weighs about 6.61658 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/drill_9.jpg 8.25 6.7 3.0 2>/dev/null
+python3 predict_mass.py test_set_images/drill_9.jpg 8.25 6.7 3.0 2>/dev/null
 test_set_images/drill_9.jpg probably weighs about 7.32681 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/drill_5.jpg 8.25 6.7 3.0 2>/dev/null
+python3 predict_mass.py test_set_images/drill_5.jpg 8.25 6.7 3.0 2>/dev/null
 test_set_images/drill_5.jpg probably weighs about 2.2466 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/drill_7.jpg 8.25 6.7 3.0 2>/dev/null
+python3 predict_mass.py test_set_images/drill_7.jpg 8.25 6.7 3.0 2>/dev/null
 test_set_images/drill_7.jpg probably weighs about 6.5858 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/drill_2.jpg 8.25 6.7 3.0 2>/dev/null
+python3 predict_mass.py test_set_images/drill_2.jpg 8.25 6.7 3.0 2>/dev/null
 test_set_images/drill_2.jpg probably weighs about 5.33456 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/box_of_soap_1.jpg 3.75 2.5 1.375 2>/dev/null                                                                  
+python3 predict_mass.py test_set_images/box_of_soap_1.jpg 3.75 2.5 1.375 2>/dev/null                                                                  
 test_set_images/box_of_soap_1.jpg probably weighs about 0.323494 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/box_of_soap_3.jpg 3.75 2.5 1.375 2>/dev/null
+python3 predict_mass.py test_set_images/box_of_soap_3.jpg 3.75 2.5 1.375 2>/dev/null
 test_set_images/box_of_soap_3.jpg probably weighs about 0.312218 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/box_of_soap_2.jpg 3.75 2.5 1.375 2>/dev/null
+python3 predict_mass.py test_set_images/box_of_soap_2.jpg 3.75 2.5 1.375 2>/dev/null
 test_set_images/box_of_soap_2.jpg probably weighs about 0.259201 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/box_of_soap_4.jpg 3.75 2.5 1.375 2>/dev/null
+python3 predict_mass.py test_set_images/box_of_soap_4.jpg 3.75 2.5 1.375 2>/dev/null
 test_set_images/box_of_soap_4.jpg probably weighs about 0.263476 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/airplane_clock_6.jpg 6.25 1.25 2.125 2>/dev/null                                                              
+python3 predict_mass.py test_set_images/airplane_clock_6.jpg 6.25 1.25 2.125 2>/dev/null                                                              
 test_set_images/airplane_clock_6.jpg probably weighs about 0.337765 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/airplane_clock_3.jpg 6.25 1.25 2.125 2>/dev/null
+python3 predict_mass.py test_set_images/airplane_clock_3.jpg 6.25 1.25 2.125 2>/dev/null
 test_set_images/airplane_clock_3.jpg probably weighs about 0.382231 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/airplane_clock_9.jpg 6.25 1.25 2.125 2>/dev/null
+python3 predict_mass.py test_set_images/airplane_clock_9.jpg 6.25 1.25 2.125 2>/dev/null
 test_set_images/airplane_clock_9.jpg probably weighs about 0.369451 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/airplane_clock_7.jpg 6.25 1.25 2.125 2>/dev/null
+python3 predict_mass.py test_set_images/airplane_clock_7.jpg 6.25 1.25 2.125 2>/dev/null
 test_set_images/airplane_clock_7.jpg probably weighs about 0.386377 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/airplane_clock_5.jpg 6.25 1.25 2.125 2>/dev/null
+python3 predict_mass.py test_set_images/airplane_clock_5.jpg 6.25 1.25 2.125 2>/dev/null
 test_set_images/airplane_clock_5.jpg probably weighs about 0.421038 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/airplane_clock_2.jpg 6.25 1.25 2.125 2>/dev/null
+python3 predict_mass.py test_set_images/airplane_clock_2.jpg 6.25 1.25 2.125 2>/dev/null
 test_set_images/airplane_clock_2.jpg probably weighs about 0.315979 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/airplane_clock_1.jpg 6.25 1.25 2.125 2>/dev/null
+python3 predict_mass.py test_set_images/airplane_clock_1.jpg 6.25 1.25 2.125 2>/dev/null
 test_set_images/airplane_clock_1.jpg probably weighs about 0.331744 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/airplane_clock_8.jpg 6.25 1.25 2.125 2>/dev/null
+python3 predict_mass.py test_set_images/airplane_clock_8.jpg 6.25 1.25 2.125 2>/dev/null
 test_set_images/airplane_clock_8.jpg probably weighs about 0.323434 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/airplane_clock_10.jpg 6.25 1.25 2.125 2>/dev/null
+python3 predict_mass.py test_set_images/airplane_clock_10.jpg 6.25 1.25 2.125 2>/dev/null
 test_set_images/airplane_clock_10.jpg probably weighs about 0.326006 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/airplane_clock_4.jpg 6.25 1.25 2.125 2>/dev/null
+python3 predict_mass.py test_set_images/airplane_clock_4.jpg 6.25 1.25 2.125 2>/dev/null
 test_set_images/airplane_clock_4.jpg probably weighs about 0.312389 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/plate_8.jpg 6.5 6.5 0.625 2>/dev/null                                                                         
+python3 predict_mass.py test_set_images/plate_8.jpg 6.5 6.5 0.625 2>/dev/null                                                                         
 test_set_images/plate_8.jpg probably weighs about 0.362789 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/plate_5.jpg 6.5 6.5 0.625 2>/dev/null
+python3 predict_mass.py test_set_images/plate_5.jpg 6.5 6.5 0.625 2>/dev/null
 test_set_images/plate_5.jpg probably weighs about 0.436636 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/plate_2.jpg 6.5 6.5 0.625 2>/dev/null
+python3 predict_mass.py test_set_images/plate_2.jpg 6.5 6.5 0.625 2>/dev/null
 test_set_images/plate_2.jpg probably weighs about 0.353982 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/plate_4.jpg 6.5 6.5 0.625 2>/dev/null
+python3 predict_mass.py test_set_images/plate_4.jpg 6.5 6.5 0.625 2>/dev/null
 test_set_images/plate_4.jpg probably weighs about 0.438177 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/plate_6.jpg 6.5 6.5 0.625 2>/dev/null
+python3 predict_mass.py test_set_images/plate_6.jpg 6.5 6.5 0.625 2>/dev/null
 test_set_images/plate_6.jpg probably weighs about 0.358273 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/plate_11.jpg 6.5 6.5 0.625 2>/dev/null
+python3 predict_mass.py test_set_images/plate_11.jpg 6.5 6.5 0.625 2>/dev/null
 test_set_images/plate_11.jpg probably weighs about 0.723868 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/plate_9.jpg 6.5 6.5 0.625 2>/dev/null
+python3 predict_mass.py test_set_images/plate_9.jpg 6.5 6.5 0.625 2>/dev/null
 test_set_images/plate_9.jpg probably weighs about 0.340597 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/plate_1.jpg 6.5 6.5 0.625 2>/dev/null
+python3 predict_mass.py test_set_images/plate_1.jpg 6.5 6.5 0.625 2>/dev/null
 test_set_images/plate_1.jpg probably weighs about 0.396178 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/plate_10.jpg 6.5 6.5 0.625 2>/dev/null
+python3 predict_mass.py test_set_images/plate_10.jpg 6.5 6.5 0.625 2>/dev/null
 test_set_images/plate_10.jpg probably weighs about 0.672753 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/plate_7.jpg 6.5 6.5 0.625 2>/dev/null
+python3 predict_mass.py test_set_images/plate_7.jpg 6.5 6.5 0.625 2>/dev/null
 test_set_images/plate_7.jpg probably weighs about 0.379266 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/plate_3.jpg 6.5 6.5 0.625 2>/dev/null
+python3 predict_mass.py test_set_images/plate_3.jpg 6.5 6.5 0.625 2>/dev/null
 test_set_images/plate_3.jpg probably weighs about 0.37785 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/screwdriver_2.jpg 7.25 1.25 1.25 2>/dev/null                                                                  
+python3 predict_mass.py test_set_images/screwdriver_2.jpg 7.25 1.25 1.25 2>/dev/null                                                                  
 test_set_images/screwdriver_2.jpg probably weighs about 0.200929 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/screwdriver_3.jpg 7.25 1.25 1.25 2>/dev/null
+python3 predict_mass.py test_set_images/screwdriver_3.jpg 7.25 1.25 1.25 2>/dev/null
 test_set_images/screwdriver_3.jpg probably weighs about 0.184331 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/screwdriver_5.jpg 7.25 1.25 1.25 2>/dev/null
+python3 predict_mass.py test_set_images/screwdriver_5.jpg 7.25 1.25 1.25 2>/dev/null
 test_set_images/screwdriver_5.jpg probably weighs about 0.195064 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/screwdriver_1.jpg 7.25 1.25 1.25 2>/dev/null
+python3 predict_mass.py test_set_images/screwdriver_1.jpg 7.25 1.25 1.25 2>/dev/null
 test_set_images/screwdriver_1.jpg probably weighs about 0.19392 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/screwdriver_4.jpg 7.25 1.25 1.25 2>/dev/null
+python3 predict_mass.py test_set_images/screwdriver_4.jpg 7.25 1.25 1.25 2>/dev/null
 test_set_images/screwdriver_4.jpg probably weighs about 0.205511 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/safety_razer_3.jpg 5.625 1.65 0.75 2>/dev/null                                                                
+python3 predict_mass.py test_set_images/safety_razer_3.jpg 5.625 1.65 0.75 2>/dev/null                                                                
 test_set_images/safety_razer_3.jpg probably weighs about 0.129054 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/safety_razer_1.jpg 5.625 1.65 0.75 2>/dev/null
+python3 predict_mass.py test_set_images/safety_razer_1.jpg 5.625 1.65 0.75 2>/dev/null
 test_set_images/safety_razer_1.jpg probably weighs about 0.156367 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/safety_razer_6.jpg 5.625 1.65 0.75 2>/dev/null
+python3 predict_mass.py test_set_images/safety_razer_6.jpg 5.625 1.65 0.75 2>/dev/null
 test_set_images/safety_razer_6.jpg probably weighs about 0.13277 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/safety_razer_5.jpg 5.625 1.65 0.75 2>/dev/null
+python3 predict_mass.py test_set_images/safety_razer_5.jpg 5.625 1.65 0.75 2>/dev/null
 test_set_images/safety_razer_5.jpg probably weighs about 0.167881 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/safety_razer_9.jpg 5.625 1.65 0.75 2>/dev/null
+python3 predict_mass.py test_set_images/safety_razer_9.jpg 5.625 1.65 0.75 2>/dev/null
 test_set_images/safety_razer_9.jpg probably weighs about 0.163718 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/safety_razer_8.jpg 5.625 1.65 0.75 2>/dev/null
+python3 predict_mass.py test_set_images/safety_razer_8.jpg 5.625 1.65 0.75 2>/dev/null
 test_set_images/safety_razer_8.jpg probably weighs about 0.177042 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/safety_razer_2.jpg 5.625 1.65 0.75 2>/dev/null
+python3 predict_mass.py test_set_images/safety_razer_2.jpg 5.625 1.65 0.75 2>/dev/null
 test_set_images/safety_razer_2.jpg probably weighs about 0.16516 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/safety_razer_7.jpg 5.625 1.65 0.75 2>/dev/null
+python3 predict_mass.py test_set_images/safety_razer_7.jpg 5.625 1.65 0.75 2>/dev/null
 test_set_images/safety_razer_7.jpg probably weighs about 0.23432 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/safety_razer_4.jpg 5.625 1.65 0.75 2>/dev/null
+python3 predict_mass.py test_set_images/safety_razer_4.jpg 5.625 1.65 0.75 2>/dev/null
 test_set_images/safety_razer_4.jpg probably weighs about 0.162821 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/hammer_1.jpg 10.0 4.5 1.15 2>/dev/null                                                              
+python3 predict_mass.py test_set_images/hammer_1.jpg 10.0 4.5 1.15 2>/dev/null                                                              
 test_set_images/hammer_1.jpg probably weighs about 1.0888 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/hammer_3.jpg 10.0 4.5 1.15 2>/dev/null
+python3 predict_mass.py test_set_images/hammer_3.jpg 10.0 4.5 1.15 2>/dev/null
 test_set_images/hammer_3.jpg probably weighs about 0.90963 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/hammer_2.jpg 10.0 4.5 1.15 2>/dev/null
+python3 predict_mass.py test_set_images/hammer_2.jpg 10.0 4.5 1.15 2>/dev/null
 test_set_images/hammer_2.jpg probably weighs about 0.987224 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/hammer_6.jpg 10.0 4.5 1.15 2>/dev/null
+python3 predict_mass.py test_set_images/hammer_6.jpg 10.0 4.5 1.15 2>/dev/null
 test_set_images/hammer_6.jpg probably weighs about 0.948756 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/hammer_7.jpg 10.0 4.5 1.15 2>/dev/null
+python3 predict_mass.py test_set_images/hammer_7.jpg 10.0 4.5 1.15 2>/dev/null
 test_set_images/hammer_7.jpg probably weighs about 0.966141 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/hammer_8.jpg 10.0 4.5 1.15 2>/dev/null
+python3 predict_mass.py test_set_images/hammer_8.jpg 10.0 4.5 1.15 2>/dev/null
 test_set_images/hammer_8.jpg probably weighs about 0.948436 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/hammer_4.jpg 10.0 4.5 1.15 2>/dev/null
+python3 predict_mass.py test_set_images/hammer_4.jpg 10.0 4.5 1.15 2>/dev/null
 test_set_images/hammer_4.jpg probably weighs about 1.15889 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/hammer_5.jpg 10.0 4.5 1.15 2>/dev/null
+python3 predict_mass.py test_set_images/hammer_5.jpg 10.0 4.5 1.15 2>/dev/null
 test_set_images/hammer_5.jpg probably weighs about 1.04483 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/small_elephant_3.jpg 3.75 1.5 3.0 2>/dev/null                                                           
+python3 predict_mass.py test_set_images/small_elephant_3.jpg 3.75 1.5 3.0 2>/dev/null                                                           
 test_set_images/small_elephant_3.jpg probably weighs about 0.55006 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/small_elephant_6.jpg 3.75 1.5 3.0 2>/dev/null
+python3 predict_mass.py test_set_images/small_elephant_6.jpg 3.75 1.5 3.0 2>/dev/null
 test_set_images/small_elephant_6.jpg probably weighs about 0.406609 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/small_elephant_2.jpg 3.75 1.5 3.0 2>/dev/null
+python3 predict_mass.py test_set_images/small_elephant_2.jpg 3.75 1.5 3.0 2>/dev/null
 test_set_images/small_elephant_2.jpg probably weighs about 0.496933 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/small_elephant_1.jpg 3.75 1.5 3.0 2>/dev/null
+python3 predict_mass.py test_set_images/small_elephant_1.jpg 3.75 1.5 3.0 2>/dev/null
 test_set_images/small_elephant_1.jpg probably weighs about 0.632796 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/small_elephant_5.jpg 3.75 1.5 3.0 2>/dev/null
+python3 predict_mass.py test_set_images/small_elephant_5.jpg 3.75 1.5 3.0 2>/dev/null
 test_set_images/small_elephant_5.jpg probably weighs about 0.546211 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/small_elephant_4.jpg 3.75 1.5 3.0 2>/dev/null
+python3 predict_mass.py test_set_images/small_elephant_4.jpg 3.75 1.5 3.0 2>/dev/null
 test_set_images/small_elephant_4.jpg probably weighs about 0.523527 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/neck_pillow_2.jpg 12.5 12.0 4.25 2>/dev/null                                                       
+python3 predict_mass.py test_set_images/neck_pillow_2.jpg 12.5 12.0 4.25 2>/dev/null                                                       
 test_set_images/neck_pillow_2.jpg probably weighs about 0.737208 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/neck_pillow_8.jpg 12.5 12.0 4.25 2>/dev/null
+python3 predict_mass.py test_set_images/neck_pillow_8.jpg 12.5 12.0 4.25 2>/dev/null
 test_set_images/neck_pillow_8.jpg probably weighs about 0.885673 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/neck_pillow_7.jpg 12.5 12.0 4.25 2>/dev/null
+python3 predict_mass.py test_set_images/neck_pillow_7.jpg 12.5 12.0 4.25 2>/dev/null
 test_set_images/neck_pillow_7.jpg probably weighs about 1.30473 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/neck_pillow_5.jpg 12.5 12.0 4.25 2>/dev/null
+python3 predict_mass.py test_set_images/neck_pillow_5.jpg 12.5 12.0 4.25 2>/dev/null
 test_set_images/neck_pillow_5.jpg probably weighs about 1.27017 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/neck_pillow_3.jpg 12.5 12.0 4.25 2>/dev/null
+python3 predict_mass.py test_set_images/neck_pillow_3.jpg 12.5 12.0 4.25 2>/dev/null
 test_set_images/neck_pillow_3.jpg probably weighs about 0.808016 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/neck_pillow_6.jpg 12.5 12.0 4.25 2>/dev/null
+python3 predict_mass.py test_set_images/neck_pillow_6.jpg 12.5 12.0 4.25 2>/dev/null
 test_set_images/neck_pillow_6.jpg probably weighs about 1.89139 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/neck_pillow_9.jpg 12.5 12.0 4.25 2>/dev/null
+python3 predict_mass.py test_set_images/neck_pillow_9.jpg 12.5 12.0 4.25 2>/dev/null
 test_set_images/neck_pillow_9.jpg probably weighs about 1.16329 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/neck_pillow_4.jpg 12.5 12.0 4.25 2>/dev/null
+python3 predict_mass.py test_set_images/neck_pillow_4.jpg 12.5 12.0 4.25 2>/dev/null
 test_set_images/neck_pillow_4.jpg probably weighs about 0.909878 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/neck_pillow_1.jpg 12.5 12.0 4.25 2>/dev/null
+python3 predict_mass.py test_set_images/neck_pillow_1.jpg 12.5 12.0 4.25 2>/dev/null
 test_set_images/neck_pillow_1.jpg probably weighs about 0.755007 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/ivans_phone_5.jpg 4.75 2.675 1.2 2>/dev/null                                                   
+python3 predict_mass.py test_set_images/ivans_phone_5.jpg 4.75 2.675 1.2 2>/dev/null                                                   
 test_set_images/ivans_phone_5.jpg probably weighs about 0.282713 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/ivans_phone_3.jpg 4.75 2.675 1.2 2>/dev/null
+python3 predict_mass.py test_set_images/ivans_phone_3.jpg 4.75 2.675 1.2 2>/dev/null
 test_set_images/ivans_phone_3.jpg probably weighs about 0.283698 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/ivans_phone_6.jpg 4.75 2.675 1.2 2>/dev/null
+python3 predict_mass.py test_set_images/ivans_phone_6.jpg 4.75 2.675 1.2 2>/dev/null
 test_set_images/ivans_phone_6.jpg probably weighs about 0.275707 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/ivans_phone_4.jpg 4.75 2.675 1.2 2>/dev/null
+python3 predict_mass.py test_set_images/ivans_phone_4.jpg 4.75 2.675 1.2 2>/dev/null
 test_set_images/ivans_phone_4.jpg probably weighs about 0.268539 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/ivans_phone_1.jpg 4.75 2.675 1.2 2>/dev/null
+python3 predict_mass.py test_set_images/ivans_phone_1.jpg 4.75 2.675 1.2 2>/dev/null
 test_set_images/ivans_phone_1.jpg probably weighs about 0.267372 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/ivans_phone_2.jpg 4.75 2.675 1.2 2>/dev/null
+python3 predict_mass.py test_set_images/ivans_phone_2.jpg 4.75 2.675 1.2 2>/dev/null
 test_set_images/ivans_phone_2.jpg probably weighs about 0.327428 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/hat_2.jpg 11.0 8.25 0.7 2>/dev/null                                                
+python3 predict_mass.py test_set_images/hat_2.jpg 11.0 8.25 0.7 2>/dev/null                                                
 test_set_images/hat_2.jpg probably weighs about 0.360432 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/hat_3.jpg 11.0 8.25 0.7 2>/dev/null
+python3 predict_mass.py test_set_images/hat_3.jpg 11.0 8.25 0.7 2>/dev/null
 test_set_images/hat_3.jpg probably weighs about 0.363118 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/hat_4.jpg 11.0 8.25 0.7 2>/dev/null
+python3 predict_mass.py test_set_images/hat_4.jpg 11.0 8.25 0.7 2>/dev/null
 test_set_images/hat_4.jpg probably weighs about 0.359045 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/hat_1.jpg 11.0 8.25 0.7 2>/dev/null
+python3 predict_mass.py test_set_images/hat_1.jpg 11.0 8.25 0.7 2>/dev/null
 test_set_images/hat_1.jpg probably weighs about 0.353378 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/swiss_army_knife_6.jpg 3.25 1.625 1.0 2>/dev/null                                            
+python3 predict_mass.py test_set_images/swiss_army_knife_6.jpg 3.25 1.625 1.0 2>/dev/null                                            
 test_set_images/swiss_army_knife_6.jpg probably weighs about 0.138161 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/swiss_army_knife_3.jpg 3.25 1.625 1.0 2>/dev/null
+python3 predict_mass.py test_set_images/swiss_army_knife_3.jpg 3.25 1.625 1.0 2>/dev/null
 test_set_images/swiss_army_knife_3.jpg probably weighs about 0.111249 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/swiss_army_knife_8.jpg 3.25 1.625 1.0 2>/dev/null
+python3 predict_mass.py test_set_images/swiss_army_knife_8.jpg 3.25 1.625 1.0 2>/dev/null
 test_set_images/swiss_army_knife_8.jpg probably weighs about 0.114752 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/swiss_army_knife_4.jpg 3.25 1.625 1.0 2>/dev/null
+python3 predict_mass.py test_set_images/swiss_army_knife_4.jpg 3.25 1.625 1.0 2>/dev/null
 test_set_images/swiss_army_knife_4.jpg probably weighs about 0.141757 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/swiss_army_knife_7.jpg 3.25 1.625 1.0 2>/dev/null
+python3 predict_mass.py test_set_images/swiss_army_knife_7.jpg 3.25 1.625 1.0 2>/dev/null
 test_set_images/swiss_army_knife_7.jpg probably weighs about 0.178008 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/swiss_army_knife_1.jpg 3.25 1.625 1.0 2>/dev/null
+python3 predict_mass.py test_set_images/swiss_army_knife_1.jpg 3.25 1.625 1.0 2>/dev/null
 test_set_images/swiss_army_knife_1.jpg probably weighs about 0.171513 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/swiss_army_knife_2.jpg 3.25 1.625 1.0 2>/dev/null
+python3 predict_mass.py test_set_images/swiss_army_knife_2.jpg 3.25 1.625 1.0 2>/dev/null
 test_set_images/swiss_army_knife_2.jpg probably weighs about 0.15226 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/can_opener_4.jpg 7.0 2.0 1.75 2>/dev/null                                         
+python3 predict_mass.py test_set_images/can_opener_4.jpg 7.0 2.0 1.75 2>/dev/null                                         
 test_set_images/can_opener_4.jpg probably weighs about 0.352196 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/can_opener_7.jpg 7.0 2.0 1.75 2>/dev/null
+python3 predict_mass.py test_set_images/can_opener_7.jpg 7.0 2.0 1.75 2>/dev/null
 test_set_images/can_opener_7.jpg probably weighs about 0.380097 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/can_opener_6.jpg 7.0 2.0 1.75 2>/dev/null
+python3 predict_mass.py test_set_images/can_opener_6.jpg 7.0 2.0 1.75 2>/dev/null
 test_set_images/can_opener_6.jpg probably weighs about 0.396489 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/can_opener_8.jpg 7.0 2.0 1.75 2>/dev/null
+python3 predict_mass.py test_set_images/can_opener_8.jpg 7.0 2.0 1.75 2>/dev/null
 test_set_images/can_opener_8.jpg probably weighs about 0.427607 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/can_opener_1.jpg 7.0 2.0 1.75 2>/dev/null
+python3 predict_mass.py test_set_images/can_opener_1.jpg 7.0 2.0 1.75 2>/dev/null
 test_set_images/can_opener_1.jpg probably weighs about 0.304044 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/can_opener_2.jpg 7.0 2.0 1.75 2>/dev/null
+python3 predict_mass.py test_set_images/can_opener_2.jpg 7.0 2.0 1.75 2>/dev/null
 test_set_images/can_opener_2.jpg probably weighs about 0.444745 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/can_opener_5.jpg 7.0 2.0 1.75 2>/dev/null
+python3 predict_mass.py test_set_images/can_opener_5.jpg 7.0 2.0 1.75 2>/dev/null
 test_set_images/can_opener_5.jpg probably weighs about 0.56587 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/can_opener_10.jpg 7.0 2.0 1.75 2>/dev/null
+python3 predict_mass.py test_set_images/can_opener_10.jpg 7.0 2.0 1.75 2>/dev/null
 test_set_images/can_opener_10.jpg probably weighs about 0.470362 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/can_opener_3.jpg 7.0 2.0 1.75 2>/dev/null
+python3 predict_mass.py test_set_images/can_opener_3.jpg 7.0 2.0 1.75 2>/dev/null
 test_set_images/can_opener_3.jpg probably weighs about 0.28113 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/rope_bundle_5.jpg 8.625 1.5 1.5 2>/dev/null                                     
+python3 predict_mass.py test_set_images/rope_bundle_5.jpg 8.625 1.5 1.5 2>/dev/null                                     
 test_set_images/rope_bundle_5.jpg probably weighs about 0.203076 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/rope_bundle_1.jpg 8.625 1.5 1.5 2>/dev/null
+python3 predict_mass.py test_set_images/rope_bundle_1.jpg 8.625 1.5 1.5 2>/dev/null
 test_set_images/rope_bundle_1.jpg probably weighs about 0.234742 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/rope_bundle_2.jpg 8.625 1.5 1.5 2>/dev/null
+python3 predict_mass.py test_set_images/rope_bundle_2.jpg 8.625 1.5 1.5 2>/dev/null
 test_set_images/rope_bundle_2.jpg probably weighs about 0.214299 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/rope_bundle_9.jpg 8.625 1.5 1.5 2>/dev/null
+python3 predict_mass.py test_set_images/rope_bundle_9.jpg 8.625 1.5 1.5 2>/dev/null
 test_set_images/rope_bundle_9.jpg probably weighs about 0.26441 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/rope_bundle_3.jpg 8.625 1.5 1.5 2>/dev/null
+python3 predict_mass.py test_set_images/rope_bundle_3.jpg 8.625 1.5 1.5 2>/dev/null
 test_set_images/rope_bundle_3.jpg probably weighs about 0.251158 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/rope_bundle_8.jpg 8.625 1.5 1.5 2>/dev/null
+python3 predict_mass.py test_set_images/rope_bundle_8.jpg 8.625 1.5 1.5 2>/dev/null
 test_set_images/rope_bundle_8.jpg probably weighs about 0.223901 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/rope_bundle_4.jpg 8.625 1.5 1.5 2>/dev/null
+python3 predict_mass.py test_set_images/rope_bundle_4.jpg 8.625 1.5 1.5 2>/dev/null
 test_set_images/rope_bundle_4.jpg probably weighs about 0.202199 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/rope_bundle_7.jpg 8.625 1.5 1.5 2>/dev/null
+python3 predict_mass.py test_set_images/rope_bundle_7.jpg 8.625 1.5 1.5 2>/dev/null
 test_set_images/rope_bundle_7.jpg probably weighs about 0.224703 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/rope_bundle_6.jpg 8.625 1.5 1.5 2>/dev/null
+python3 predict_mass.py test_set_images/rope_bundle_6.jpg 8.625 1.5 1.5 2>/dev/null
 test_set_images/rope_bundle_6.jpg probably weighs about 0.28 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/lighter_10.jpg 11.5 2.0 0.75 2>/dev/null                                 
+python3 predict_mass.py test_set_images/lighter_10.jpg 11.5 2.0 0.75 2>/dev/null                                 
 test_set_images/lighter_10.jpg probably weighs about 0.239302 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/lighter_9.jpg 11.5 2.0 0.75 2>/dev/null
+python3 predict_mass.py test_set_images/lighter_9.jpg 11.5 2.0 0.75 2>/dev/null
 test_set_images/lighter_9.jpg probably weighs about 0.24242 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/lighter_7.jpg 11.5 2.0 0.75 2>/dev/null
+python3 predict_mass.py test_set_images/lighter_7.jpg 11.5 2.0 0.75 2>/dev/null
 test_set_images/lighter_7.jpg probably weighs about 0.21051 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/lighter_4.jpg 11.5 2.0 0.75 2>/dev/null
+python3 predict_mass.py test_set_images/lighter_4.jpg 11.5 2.0 0.75 2>/dev/null
 test_set_images/lighter_4.jpg probably weighs about 0.278605 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/lighter_1.jpg 11.5 2.0 0.75 2>/dev/null
+python3 predict_mass.py test_set_images/lighter_1.jpg 11.5 2.0 0.75 2>/dev/null
 test_set_images/lighter_1.jpg probably weighs about 0.208795 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/lighter_2.jpg 11.5 2.0 0.75 2>/dev/null
+python3 predict_mass.py test_set_images/lighter_2.jpg 11.5 2.0 0.75 2>/dev/null
 test_set_images/lighter_2.jpg probably weighs about 0.238138 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/lighter_6.jpg 11.5 2.0 0.75 2>/dev/null
+python3 predict_mass.py test_set_images/lighter_6.jpg 11.5 2.0 0.75 2>/dev/null
 test_set_images/lighter_6.jpg probably weighs about 0.188455 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/lighter_5.jpg 11.5 2.0 0.75 2>/dev/null
+python3 predict_mass.py test_set_images/lighter_5.jpg 11.5 2.0 0.75 2>/dev/null
 test_set_images/lighter_5.jpg probably weighs about 0.283594 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/lighter_8.jpg 11.5 2.0 0.75 2>/dev/null
+python3 predict_mass.py test_set_images/lighter_8.jpg 11.5 2.0 0.75 2>/dev/null
 test_set_images/lighter_8.jpg probably weighs about 0.226897 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/lighter_3.jpg 11.5 2.0 0.75 2>/dev/null
+python3 predict_mass.py test_set_images/lighter_3.jpg 11.5 2.0 0.75 2>/dev/null
 test_set_images/lighter_3.jpg probably weighs about 0.236447 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/marshy_the_elephant_5.jpg 9.25 8.75 10.0 2>/dev/null                              
+python3 predict_mass.py test_set_images/marshy_the_elephant_5.jpg 9.25 8.75 10.0 2>/dev/null                              
 test_set_images/marshy_the_elephant_5.jpg probably weighs about 1.55263 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/marshy_the_elephant_1.jpg 9.25 8.75 10.0 2>/dev/null
+python3 predict_mass.py test_set_images/marshy_the_elephant_1.jpg 9.25 8.75 10.0 2>/dev/null
 test_set_images/marshy_the_elephant_1.jpg probably weighs about 1.37835 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/marshy_the_elephant_4.jpg 9.25 8.75 10.0 2>/dev/null
+python3 predict_mass.py test_set_images/marshy_the_elephant_4.jpg 9.25 8.75 10.0 2>/dev/null
 test_set_images/marshy_the_elephant_4.jpg probably weighs about 1.54994 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/marshy_the_elephant_3.jpg 9.25 8.75 10.0 2>/dev/null
+python3 predict_mass.py test_set_images/marshy_the_elephant_3.jpg 9.25 8.75 10.0 2>/dev/null
 test_set_images/marshy_the_elephant_3.jpg probably weighs about 1.16628 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/marshy_the_elephant_6.jpg 9.25 8.75 10.0 2>/dev/null
+python3 predict_mass.py test_set_images/marshy_the_elephant_6.jpg 9.25 8.75 10.0 2>/dev/null
 test_set_images/marshy_the_elephant_6.jpg probably weighs about 1.38718 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/marshy_the_elephant_2.jpg 9.25 8.75 10.0 2>/dev/null
+python3 predict_mass.py test_set_images/marshy_the_elephant_2.jpg 9.25 8.75 10.0 2>/dev/null
 test_set_images/marshy_the_elephant_2.jpg probably weighs about 0.971359 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/small_bowl_3.jpg 4.0 4.0 2.125 2>/dev/null                          
+python3 predict_mass.py test_set_images/small_bowl_3.jpg 4.0 4.0 2.125 2>/dev/null                          
 test_set_images/small_bowl_3.jpg probably weighs about 0.359183 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/small_bowl_1.jpg 4.0 4.0 2.125 2>/dev/null
+python3 predict_mass.py test_set_images/small_bowl_1.jpg 4.0 4.0 2.125 2>/dev/null
 test_set_images/small_bowl_1.jpg probably weighs about 0.503341 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/small_bowl_2.jpg 4.0 4.0 2.125 2>/dev/null
+python3 predict_mass.py test_set_images/small_bowl_2.jpg 4.0 4.0 2.125 2>/dev/null
 test_set_images/small_bowl_2.jpg probably weighs about 0.333829 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/headphones_2.jpg 6.0 7.5 2.75 2>/dev/null                      
+python3 predict_mass.py test_set_images/headphones_2.jpg 6.0 7.5 2.75 2>/dev/null                      
 test_set_images/headphones_2.jpg probably weighs about 0.494843 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/headphones_5.jpg 6.0 7.5 2.75 2>/dev/null
+python3 predict_mass.py test_set_images/headphones_5.jpg 6.0 7.5 2.75 2>/dev/null
 test_set_images/headphones_5.jpg probably weighs about 0.671112 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/headphones_4.jpg 6.0 7.5 2.75 2>/dev/null
+python3 predict_mass.py test_set_images/headphones_4.jpg 6.0 7.5 2.75 2>/dev/null
 test_set_images/headphones_4.jpg probably weighs about 0.579739 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/headphones_3.jpg 6.0 7.5 2.75 2>/dev/null
+python3 predict_mass.py test_set_images/headphones_3.jpg 6.0 7.5 2.75 2>/dev/null
 test_set_images/headphones_3.jpg probably weighs about 0.569048 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/headphones_6.jpg 6.0 7.5 2.75 2>/dev/null
+python3 predict_mass.py test_set_images/headphones_6.jpg 6.0 7.5 2.75 2>/dev/null
 test_set_images/headphones_6.jpg probably weighs about 0.570049 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/headphones_1.jpg 6.0 7.5 2.75 2>/dev/null
+python3 predict_mass.py test_set_images/headphones_1.jpg 6.0 7.5 2.75 2>/dev/null
 test_set_images/headphones_1.jpg probably weighs about 0.570864 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/mouse_4.jpg 4.75 2.5 1.5 2>/dev/null                   
+python3 predict_mass.py test_set_images/mouse_4.jpg 4.75 2.5 1.5 2>/dev/null                   
 test_set_images/mouse_4.jpg probably weighs about 0.239276 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/mouse_7.jpg 4.75 2.5 1.5 2>/dev/null
+python3 predict_mass.py test_set_images/mouse_7.jpg 4.75 2.5 1.5 2>/dev/null
 test_set_images/mouse_7.jpg probably weighs about 0.219102 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/mouse_9.jpg 4.75 2.5 1.5 2>/dev/null
+python3 predict_mass.py test_set_images/mouse_9.jpg 4.75 2.5 1.5 2>/dev/null
 test_set_images/mouse_9.jpg probably weighs about 0.206197 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/mouse_5.jpg 4.75 2.5 1.5 2>/dev/null
+python3 predict_mass.py test_set_images/mouse_5.jpg 4.75 2.5 1.5 2>/dev/null
 test_set_images/mouse_5.jpg probably weighs about 0.193233 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/mouse_1.jpg 4.75 2.5 1.5 2>/dev/null
+python3 predict_mass.py test_set_images/mouse_1.jpg 4.75 2.5 1.5 2>/dev/null
 test_set_images/mouse_1.jpg probably weighs about 0.221334 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/mouse_2.jpg 4.75 2.5 1.5 2>/dev/null
+python3 predict_mass.py test_set_images/mouse_2.jpg 4.75 2.5 1.5 2>/dev/null
 test_set_images/mouse_2.jpg probably weighs about 0.201925 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/mouse_8.jpg 4.75 2.5 1.5 2>/dev/null
+python3 predict_mass.py test_set_images/mouse_8.jpg 4.75 2.5 1.5 2>/dev/null
 test_set_images/mouse_8.jpg probably weighs about 0.211659 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/mouse_6.jpg 4.75 2.5 1.5 2>/dev/null
+python3 predict_mass.py test_set_images/mouse_6.jpg 4.75 2.5 1.5 2>/dev/null
 test_set_images/mouse_6.jpg probably weighs about 0.242085 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/mouse_3.jpg 4.75 2.5 1.5 2>/dev/null
+python3 predict_mass.py test_set_images/mouse_3.jpg 4.75 2.5 1.5 2>/dev/null
 test_set_images/mouse_3.jpg probably weighs about 0.233791 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/view_master_6.jpg 5.0 3.6 3.0 2>/dev/null               
+python3 predict_mass.py test_set_images/view_master_6.jpg 5.0 3.6 3.0 2>/dev/null               
 test_set_images/view_master_6.jpg probably weighs about 0.361646 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/view_master_3.jpg 5.0 3.6 3.0 2>/dev/null
+python3 predict_mass.py test_set_images/view_master_3.jpg 5.0 3.6 3.0 2>/dev/null
 test_set_images/view_master_3.jpg probably weighs about 0.353021 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/view_master_5.jpg 5.0 3.6 3.0 2>/dev/null
+python3 predict_mass.py test_set_images/view_master_5.jpg 5.0 3.6 3.0 2>/dev/null
 test_set_images/view_master_5.jpg probably weighs about 0.306917 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/view_master_2.jpg 5.0 3.6 3.0 2>/dev/null
+python3 predict_mass.py test_set_images/view_master_2.jpg 5.0 3.6 3.0 2>/dev/null
 test_set_images/view_master_2.jpg probably weighs about 0.384433 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/view_master_1.jpg 5.0 3.6 3.0 2>/dev/null
+python3 predict_mass.py test_set_images/view_master_1.jpg 5.0 3.6 3.0 2>/dev/null
 test_set_images/view_master_1.jpg probably weighs about 0.305556 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/view_master_8.jpg 5.0 3.6 3.0 2>/dev/null
+python3 predict_mass.py test_set_images/view_master_8.jpg 5.0 3.6 3.0 2>/dev/null
 test_set_images/view_master_8.jpg probably weighs about 0.392675 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/view_master_9.jpg 5.0 3.6 3.0 2>/dev/null
+python3 predict_mass.py test_set_images/view_master_9.jpg 5.0 3.6 3.0 2>/dev/null
 test_set_images/view_master_9.jpg probably weighs about 0.307439 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/view_master_7.jpg 5.0 3.6 3.0 2>/dev/null
+python3 predict_mass.py test_set_images/view_master_7.jpg 5.0 3.6 3.0 2>/dev/null
 test_set_images/view_master_7.jpg probably weighs about 0.372164 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/view_master_4.jpg 5.0 3.6 3.0 2>/dev/null
+python3 predict_mass.py test_set_images/view_master_4.jpg 5.0 3.6 3.0 2>/dev/null
 test_set_images/view_master_4.jpg probably weighs about 0.320041 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/dust_pan_2.jpg 12.25 13.25 2.5 2>/dev/null           
+python3 predict_mass.py test_set_images/dust_pan_2.jpg 12.25 13.25 2.5 2>/dev/null           
 test_set_images/dust_pan_2.jpg probably weighs about 2.61216 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/dust_pan_3.jpg 12.25 13.25 2.5 2>/dev/null
+python3 predict_mass.py test_set_images/dust_pan_3.jpg 12.25 13.25 2.5 2>/dev/null
 test_set_images/dust_pan_3.jpg probably weighs about 1.9613 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/dust_pan_4.jpg 12.25 13.25 2.5 2>/dev/null
+python3 predict_mass.py test_set_images/dust_pan_4.jpg 12.25 13.25 2.5 2>/dev/null
 test_set_images/dust_pan_4.jpg probably weighs about 2.08458 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/dust_pan_1.jpg 12.25 13.25 2.5 2>/dev/null
+python3 predict_mass.py test_set_images/dust_pan_1.jpg 12.25 13.25 2.5 2>/dev/null
 test_set_images/dust_pan_1.jpg probably weighs about 2.3751 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/dust_pan_5.jpg 12.25 13.25 2.5 2>/dev/null
+python3 predict_mass.py test_set_images/dust_pan_5.jpg 12.25 13.25 2.5 2>/dev/null
 test_set_images/dust_pan_5.jpg probably weighs about 2.26612 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/dust_pan_6.jpg 12.25 13.25 2.5 2>/dev/null
+python3 predict_mass.py test_set_images/dust_pan_6.jpg 12.25 13.25 2.5 2>/dev/null
 test_set_images/dust_pan_6.jpg probably weighs about 2.37494 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/big_elephant_5.jpg 4.8 2.25 4.25 2>/dev/null        
+python3 predict_mass.py test_set_images/big_elephant_5.jpg 4.8 2.25 4.25 2>/dev/null        
 test_set_images/big_elephant_5.jpg probably weighs about 1.21586 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/big_elephant_4.jpg 4.8 2.25 4.25 2>/dev/null
+python3 predict_mass.py test_set_images/big_elephant_4.jpg 4.8 2.25 4.25 2>/dev/null
 test_set_images/big_elephant_4.jpg probably weighs about 1.23883 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/big_elephant_3.jpg 4.8 2.25 4.25 2>/dev/null
+python3 predict_mass.py test_set_images/big_elephant_3.jpg 4.8 2.25 4.25 2>/dev/null
 test_set_images/big_elephant_3.jpg probably weighs about 1.16229 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/big_elephant_1.jpg 4.8 2.25 4.25 2>/dev/null
+python3 predict_mass.py test_set_images/big_elephant_1.jpg 4.8 2.25 4.25 2>/dev/null
 test_set_images/big_elephant_1.jpg probably weighs about 1.21684 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/big_elephant_2.jpg 4.8 2.25 4.25 2>/dev/null
+python3 predict_mass.py test_set_images/big_elephant_2.jpg 4.8 2.25 4.25 2>/dev/null
 test_set_images/big_elephant_2.jpg probably weighs about 1.11892 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/ollie_the_monkey_4.jpg 9.625 7.5 8.75 2>/dev/null    
+python3 predict_mass.py test_set_images/ollie_the_monkey_4.jpg 9.625 7.5 8.75 2>/dev/null    
 test_set_images/ollie_the_monkey_4.jpg probably weighs about 0.360579 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/ollie_the_monkey_2.jpg 9.625 7.5 8.75 2>/dev/null
+python3 predict_mass.py test_set_images/ollie_the_monkey_2.jpg 9.625 7.5 8.75 2>/dev/null
 test_set_images/ollie_the_monkey_2.jpg probably weighs about 0.366396 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/ollie_the_monkey_5.jpg 9.625 7.5 8.75 2>/dev/null
+python3 predict_mass.py test_set_images/ollie_the_monkey_5.jpg 9.625 7.5 8.75 2>/dev/null
 test_set_images/ollie_the_monkey_5.jpg probably weighs about 0.321487 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/ollie_the_monkey_1.jpg 9.625 7.5 8.75 2>/dev/null
+python3 predict_mass.py test_set_images/ollie_the_monkey_1.jpg 9.625 7.5 8.75 2>/dev/null
 test_set_images/ollie_the_monkey_1.jpg probably weighs about 0.361204 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py test_set_images/ollie_the_monkey_6.jpg 9.625 7.5 8.75 2>/dev/null
+python3 predict_mass.py test_set_images/ollie_the_monkey_6.jpg 9.625 7.5 8.75 2>/dev/null
 test_set_images/ollie_the_monkey_6.jpg probably weighs about 0.326183 pounds.
-CUDA_VISIBLE_DEVICES=0 TF_CPP_MIN_LOG_LEVEL=3 python3 predict_mass.py new_test_set_images/seg
+python3 predict_mass.py new_test_set_images/seg
