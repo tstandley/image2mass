@@ -80,9 +80,6 @@ def get_mask_and_rect(thickness_model,img):
     mask = cv2.resize(mask, (19,19), interpolation=cv2.INTER_AREA)
     return mask,rect
 
-def dummy_loss(a,b):
-    return a
-
 class ComplexModel:
     def __init__(self,simple=False):
         if simple == 'no_geometry':
@@ -99,7 +96,7 @@ class ComplexModel:
         if len(x) ==2:
             img, dims = x
             if self.thickenss_model is None:
-                self.thickenss_model = keras.models.load_model('thickness_model.h5',{'VMAP':dummy_loss,'IoU2d':dummy_loss,'VMAP':dummy_loss, 'VR2':dummy_loss})
+                self.thickenss_model = keras.models.load_model('thickness_model.h5')
             
             mask, rect = get_mask_and_rect(self.thickenss_model,img)
             if img.shape != (299,299,3):
