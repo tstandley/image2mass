@@ -4,6 +4,7 @@ Code for http://proceedings.mlr.press/v78/standley17a.html
 
 ## setup (works only with python3):
 Install tensorflow
+
 Download evaluation datafiles (see below)
 
 ### use pip
