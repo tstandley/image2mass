@@ -33,6 +33,6 @@ https://docs.google.com/spreadsheets/d/1-cjqxaG8AGP14KvUZxSQzLGfGmS3_IbVO47_vbBK
 
 https://drive.google.com/drive/folders/17yEukxIyjyen3vJ8nuX_YklnsVBZBol4
 
-## Train Data Files
+## Amazon train/val/test Data Files
 
-Coming soon
+https://goo.gl/forms/hCLNHOcv7NRkEQP03
