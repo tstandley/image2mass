@@ -3,7 +3,7 @@ import pickle
 import gzip
 import lz4
 import bisect
-
+import lz4.block
 
 def dump_compressed(to_pickle, filename):
     uncompressed_bytes = pickle.dumps(to_pickle, protocol=4)
