@@ -2,6 +2,14 @@
 
 Code for http://proceedings.mlr.press/v78/standley17a.html
 
+## Run in Google Colab
+1. Go to https://colab.research.google.com/
+2. File > Upload notebook... > GitHub
+3. Paste https://github.com/Dene33/image2mass/blob/master/image2mass_colab.ipynb
+4. Select `image2mass_colab.ipynb`
+
+or just go to: https://github.com/Dene33/image2mass/blob/master/image2mass_colab.ipynb and click `Open in Colab`
+
 ## setup (works only with python3):
 Install tensorflow
 
